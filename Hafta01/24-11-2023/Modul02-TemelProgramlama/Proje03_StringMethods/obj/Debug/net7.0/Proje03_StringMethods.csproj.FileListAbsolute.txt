@@ -1,0 +1,15 @@
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\Proje03_StringMethods\bin\Debug\net7.0\Proje03_StringMethods.exe
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\Proje03_StringMethods\bin\Debug\net7.0\Proje03_StringMethods.deps.json
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\Proje03_StringMethods\bin\Debug\net7.0\Proje03_StringMethods.runtimeconfig.json
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\Proje03_StringMethods\bin\Debug\net7.0\Proje03_StringMethods.dll
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\Proje03_StringMethods\bin\Debug\net7.0\Proje03_StringMethods.pdb
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\Proje03_StringMethods\obj\Debug\net7.0\Proje03_StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\Proje03_StringMethods\obj\Debug\net7.0\Proje03_StringMethods.AssemblyInfoInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\Proje03_StringMethods\obj\Debug\net7.0\Proje03_StringMethods.AssemblyInfo.cs
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\Proje03_StringMethods\obj\Debug\net7.0\Proje03_StringMethods.csproj.CoreCompileInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\Proje03_StringMethods\obj\Debug\net7.0\Proje03_StringMethods.sourcelink.json
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\Proje03_StringMethods\obj\Debug\net7.0\Proje03_StringMethods.dll
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\Proje03_StringMethods\obj\Debug\net7.0\refint\Proje03_StringMethods.dll
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\Proje03_StringMethods\obj\Debug\net7.0\Proje03_StringMethods.pdb
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\Proje03_StringMethods\obj\Debug\net7.0\Proje03_StringMethods.genruntimeconfig.cache
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\Proje03_StringMethods\obj\Debug\net7.0\ref\Proje03_StringMethods.dll

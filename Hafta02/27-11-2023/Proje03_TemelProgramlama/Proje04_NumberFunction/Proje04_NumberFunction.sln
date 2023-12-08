@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje04_NumberFunction", "Proje04_NumberFunction.csproj", "{232CB6C5-281B-4713-BCEB-18D69E3223DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{232CB6C5-281B-4713-BCEB-18D69E3223DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232CB6C5-281B-4713-BCEB-18D69E3223DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232CB6C5-281B-4713-BCEB-18D69E3223DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232CB6C5-281B-4713-BCEB-18D69E3223DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDFBAF8D-DEB2-4339-9C98-C0FC2CE4BC85}
+	EndGlobalSection
+EndGlobal

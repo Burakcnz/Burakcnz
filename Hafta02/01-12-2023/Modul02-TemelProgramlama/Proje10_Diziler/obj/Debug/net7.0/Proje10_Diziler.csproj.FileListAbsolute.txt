@@ -1,0 +1,15 @@
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje10_Diziler\bin\Debug\net7.0\Proje10_Diziler.exe
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje10_Diziler\bin\Debug\net7.0\Proje10_Diziler.deps.json
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje10_Diziler\bin\Debug\net7.0\Proje10_Diziler.runtimeconfig.json
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje10_Diziler\bin\Debug\net7.0\Proje10_Diziler.dll
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje10_Diziler\bin\Debug\net7.0\Proje10_Diziler.pdb
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje10_Diziler\obj\Debug\net7.0\Proje10_Diziler.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje10_Diziler\obj\Debug\net7.0\Proje10_Diziler.AssemblyInfoInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje10_Diziler\obj\Debug\net7.0\Proje10_Diziler.AssemblyInfo.cs
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje10_Diziler\obj\Debug\net7.0\Proje10_Diziler.csproj.CoreCompileInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje10_Diziler\obj\Debug\net7.0\Proje10_Diziler.sourcelink.json
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje10_Diziler\obj\Debug\net7.0\Proje10_Diziler.dll
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje10_Diziler\obj\Debug\net7.0\refint\Proje10_Diziler.dll
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje10_Diziler\obj\Debug\net7.0\Proje10_Diziler.pdb
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje10_Diziler\obj\Debug\net7.0\Proje10_Diziler.genruntimeconfig.cache
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje10_Diziler\obj\Debug\net7.0\ref\Proje10_Diziler.dll

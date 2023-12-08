@@ -1,0 +1,15 @@
+F:\GitHub\BurakcnzWorks\Hafta03\6-12-2023\TemelProgramlama\Proje05_OOP_Advanced\bin\Debug\net7.0\Proje05_OOP_Advanced.exe
+F:\GitHub\BurakcnzWorks\Hafta03\6-12-2023\TemelProgramlama\Proje05_OOP_Advanced\bin\Debug\net7.0\Proje05_OOP_Advanced.deps.json
+F:\GitHub\BurakcnzWorks\Hafta03\6-12-2023\TemelProgramlama\Proje05_OOP_Advanced\bin\Debug\net7.0\Proje05_OOP_Advanced.runtimeconfig.json
+F:\GitHub\BurakcnzWorks\Hafta03\6-12-2023\TemelProgramlama\Proje05_OOP_Advanced\bin\Debug\net7.0\Proje05_OOP_Advanced.dll
+F:\GitHub\BurakcnzWorks\Hafta03\6-12-2023\TemelProgramlama\Proje05_OOP_Advanced\bin\Debug\net7.0\Proje05_OOP_Advanced.pdb
+F:\GitHub\BurakcnzWorks\Hafta03\6-12-2023\TemelProgramlama\Proje05_OOP_Advanced\obj\Debug\net7.0\Proje05_OOP_Advanced.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\BurakcnzWorks\Hafta03\6-12-2023\TemelProgramlama\Proje05_OOP_Advanced\obj\Debug\net7.0\Proje05_OOP_Advanced.AssemblyInfoInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta03\6-12-2023\TemelProgramlama\Proje05_OOP_Advanced\obj\Debug\net7.0\Proje05_OOP_Advanced.AssemblyInfo.cs
+F:\GitHub\BurakcnzWorks\Hafta03\6-12-2023\TemelProgramlama\Proje05_OOP_Advanced\obj\Debug\net7.0\Proje05_OOP_Advanced.csproj.CoreCompileInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta03\6-12-2023\TemelProgramlama\Proje05_OOP_Advanced\obj\Debug\net7.0\Proje05_OOP_Advanced.sourcelink.json
+F:\GitHub\BurakcnzWorks\Hafta03\6-12-2023\TemelProgramlama\Proje05_OOP_Advanced\obj\Debug\net7.0\Proje05_OOP_Advanced.dll
+F:\GitHub\BurakcnzWorks\Hafta03\6-12-2023\TemelProgramlama\Proje05_OOP_Advanced\obj\Debug\net7.0\refint\Proje05_OOP_Advanced.dll
+F:\GitHub\BurakcnzWorks\Hafta03\6-12-2023\TemelProgramlama\Proje05_OOP_Advanced\obj\Debug\net7.0\Proje05_OOP_Advanced.pdb
+F:\GitHub\BurakcnzWorks\Hafta03\6-12-2023\TemelProgramlama\Proje05_OOP_Advanced\obj\Debug\net7.0\Proje05_OOP_Advanced.genruntimeconfig.cache
+F:\GitHub\BurakcnzWorks\Hafta03\6-12-2023\TemelProgramlama\Proje05_OOP_Advanced\obj\Debug\net7.0\ref\Proje05_OOP_Advanced.dll

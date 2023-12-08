@@ -1,0 +1,15 @@
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje05_TarihMethotlari\bin\Debug\net7.0\Proje05_TarihMethotlari.exe
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje05_TarihMethotlari\bin\Debug\net7.0\Proje05_TarihMethotlari.deps.json
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje05_TarihMethotlari\bin\Debug\net7.0\Proje05_TarihMethotlari.runtimeconfig.json
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje05_TarihMethotlari\bin\Debug\net7.0\Proje05_TarihMethotlari.dll
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje05_TarihMethotlari\bin\Debug\net7.0\Proje05_TarihMethotlari.pdb
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje05_TarihMethotlari\obj\Debug\net7.0\Proje05_TarihMethotlari.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje05_TarihMethotlari\obj\Debug\net7.0\Proje05_TarihMethotlari.AssemblyInfoInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje05_TarihMethotlari\obj\Debug\net7.0\Proje05_TarihMethotlari.AssemblyInfo.cs
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje05_TarihMethotlari\obj\Debug\net7.0\Proje05_TarihMethotlari.csproj.CoreCompileInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje05_TarihMethotlari\obj\Debug\net7.0\Proje05_TarihMethotlari.sourcelink.json
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje05_TarihMethotlari\obj\Debug\net7.0\Proje05_TarihMethotlari.dll
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje05_TarihMethotlari\obj\Debug\net7.0\refint\Proje05_TarihMethotlari.dll
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje05_TarihMethotlari\obj\Debug\net7.0\Proje05_TarihMethotlari.pdb
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje05_TarihMethotlari\obj\Debug\net7.0\Proje05_TarihMethotlari.genruntimeconfig.cache
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje05_TarihMethotlari\obj\Debug\net7.0\ref\Proje05_TarihMethotlari.dll

@@ -1,0 +1,15 @@
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje07_For\bin\Debug\net7.0\Proje07_For.exe
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje07_For\bin\Debug\net7.0\Proje07_For.deps.json
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje07_For\bin\Debug\net7.0\Proje07_For.runtimeconfig.json
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje07_For\bin\Debug\net7.0\Proje07_For.dll
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje07_For\bin\Debug\net7.0\Proje07_For.pdb
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje07_For\obj\Debug\net7.0\Proje07_For.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje07_For\obj\Debug\net7.0\Proje07_For.AssemblyInfoInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje07_For\obj\Debug\net7.0\Proje07_For.AssemblyInfo.cs
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje07_For\obj\Debug\net7.0\Proje07_For.csproj.CoreCompileInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje07_For\obj\Debug\net7.0\Proje07_For.sourcelink.json
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje07_For\obj\Debug\net7.0\Proje07_For.dll
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje07_For\obj\Debug\net7.0\refint\Proje07_For.dll
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje07_For\obj\Debug\net7.0\Proje07_For.pdb
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje07_For\obj\Debug\net7.0\Proje07_For.genruntimeconfig.cache
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje07_For\obj\Debug\net7.0\ref\Proje07_For.dll

@@ -1,0 +1,15 @@
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje03_Methods\bin\Debug\net7.0\Proje03_Methods.exe
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje03_Methods\bin\Debug\net7.0\Proje03_Methods.deps.json
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje03_Methods\bin\Debug\net7.0\Proje03_Methods.runtimeconfig.json
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje03_Methods\bin\Debug\net7.0\Proje03_Methods.dll
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje03_Methods\bin\Debug\net7.0\Proje03_Methods.pdb
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje03_Methods\obj\Debug\net7.0\Proje03_Methods.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje03_Methods\obj\Debug\net7.0\Proje03_Methods.AssemblyInfoInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje03_Methods\obj\Debug\net7.0\Proje03_Methods.AssemblyInfo.cs
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje03_Methods\obj\Debug\net7.0\Proje03_Methods.csproj.CoreCompileInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje03_Methods\obj\Debug\net7.0\Proje03_Methods.sourcelink.json
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje03_Methods\obj\Debug\net7.0\Proje03_Methods.dll
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje03_Methods\obj\Debug\net7.0\refint\Proje03_Methods.dll
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje03_Methods\obj\Debug\net7.0\Proje03_Methods.pdb
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje03_Methods\obj\Debug\net7.0\Proje03_Methods.genruntimeconfig.cache
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje03_Methods\obj\Debug\net7.0\ref\Proje03_Methods.dll

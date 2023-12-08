@@ -1,0 +1,15 @@
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Exercies\obj\Debug\net7.0\Exercies.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Exercies\obj\Debug\net7.0\Exercies.AssemblyInfoInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Exercies\obj\Debug\net7.0\Exercies.AssemblyInfo.cs
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Exercies\obj\Debug\net7.0\Exercies.csproj.CoreCompileInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Exercies\obj\Debug\net7.0\Exercies.sourcelink.json
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Exercies\bin\Debug\net7.0\Exercies.exe
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Exercies\bin\Debug\net7.0\Exercies.deps.json
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Exercies\bin\Debug\net7.0\Exercies.runtimeconfig.json
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Exercies\bin\Debug\net7.0\Exercies.dll
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Exercies\bin\Debug\net7.0\Exercies.pdb
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Exercies\obj\Debug\net7.0\Exercies.dll
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Exercies\obj\Debug\net7.0\refint\Exercies.dll
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Exercies\obj\Debug\net7.0\Exercies.pdb
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Exercies\obj\Debug\net7.0\Exercies.genruntimeconfig.cache
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Exercies\obj\Debug\net7.0\ref\Exercies.dll

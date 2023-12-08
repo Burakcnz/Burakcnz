@@ -1,0 +1,15 @@
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje09_SayiBulmaca\bin\Debug\net7.0\Proje09_SayiBulmaca.exe
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje09_SayiBulmaca\bin\Debug\net7.0\Proje09_SayiBulmaca.deps.json
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje09_SayiBulmaca\bin\Debug\net7.0\Proje09_SayiBulmaca.runtimeconfig.json
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje09_SayiBulmaca\bin\Debug\net7.0\Proje09_SayiBulmaca.dll
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje09_SayiBulmaca\bin\Debug\net7.0\Proje09_SayiBulmaca.pdb
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje09_SayiBulmaca\obj\Debug\net7.0\Proje09_SayiBulmaca.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje09_SayiBulmaca\obj\Debug\net7.0\Proje09_SayiBulmaca.AssemblyInfoInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje09_SayiBulmaca\obj\Debug\net7.0\Proje09_SayiBulmaca.AssemblyInfo.cs
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje09_SayiBulmaca\obj\Debug\net7.0\Proje09_SayiBulmaca.csproj.CoreCompileInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje09_SayiBulmaca\obj\Debug\net7.0\Proje09_SayiBulmaca.sourcelink.json
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje09_SayiBulmaca\obj\Debug\net7.0\Proje09_SayiBulmaca.dll
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje09_SayiBulmaca\obj\Debug\net7.0\refint\Proje09_SayiBulmaca.dll
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje09_SayiBulmaca\obj\Debug\net7.0\Proje09_SayiBulmaca.pdb
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje09_SayiBulmaca\obj\Debug\net7.0\Proje09_SayiBulmaca.genruntimeconfig.cache
+F:\GitHub\BurakcnzWorks\Hafta02\29-11-2023\Modul02-TemelProgramlama\Proje09_SayiBulmaca\obj\Debug\net7.0\ref\Proje09_SayiBulmaca.dll

@@ -1,0 +1,15 @@
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje01_OOP_Intro\bin\Debug\net7.0\Proje01_OOP_Intro.exe
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje01_OOP_Intro\bin\Debug\net7.0\Proje01_OOP_Intro.deps.json
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje01_OOP_Intro\bin\Debug\net7.0\Proje01_OOP_Intro.runtimeconfig.json
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje01_OOP_Intro\bin\Debug\net7.0\Proje01_OOP_Intro.dll
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje01_OOP_Intro\bin\Debug\net7.0\Proje01_OOP_Intro.pdb
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje01_OOP_Intro\obj\Debug\net7.0\Proje01_OOP_Intro.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje01_OOP_Intro\obj\Debug\net7.0\Proje01_OOP_Intro.AssemblyInfoInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje01_OOP_Intro\obj\Debug\net7.0\Proje01_OOP_Intro.AssemblyInfo.cs
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje01_OOP_Intro\obj\Debug\net7.0\Proje01_OOP_Intro.csproj.CoreCompileInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje01_OOP_Intro\obj\Debug\net7.0\Proje01_OOP_Intro.sourcelink.json
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje01_OOP_Intro\obj\Debug\net7.0\Proje01_OOP_Intro.dll
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje01_OOP_Intro\obj\Debug\net7.0\refint\Proje01_OOP_Intro.dll
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje01_OOP_Intro\obj\Debug\net7.0\Proje01_OOP_Intro.pdb
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje01_OOP_Intro\obj\Debug\net7.0\Proje01_OOP_Intro.genruntimeconfig.cache
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje01_OOP_Intro\obj\Debug\net7.0\ref\Proje01_OOP_Intro.dll

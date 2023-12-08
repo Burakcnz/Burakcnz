@@ -1,0 +1,15 @@
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.sourcelink.json
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+F:\GitHub\BurakcnzWorks\Hafta01\24-11-2023\Modul02-TemelProgramlama\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll

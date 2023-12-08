@@ -1,0 +1,15 @@
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project01_FirstProgram\bin\Debug\net8.0\Project01_FirstProgram.exe
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project01_FirstProgram\bin\Debug\net8.0\Project01_FirstProgram.deps.json
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project01_FirstProgram\bin\Debug\net8.0\Project01_FirstProgram.runtimeconfig.json
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project01_FirstProgram\bin\Debug\net8.0\Project01_FirstProgram.dll
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project01_FirstProgram\bin\Debug\net8.0\Project01_FirstProgram.pdb
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project01_FirstProgram\obj\Debug\net8.0\Project01_FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project01_FirstProgram\obj\Debug\net8.0\Project01_FirstProgram.AssemblyInfoInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project01_FirstProgram\obj\Debug\net8.0\Project01_FirstProgram.AssemblyInfo.cs
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project01_FirstProgram\obj\Debug\net8.0\Project01_FirstProgram.csproj.CoreCompileInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project01_FirstProgram\obj\Debug\net8.0\Project01_FirstProgram.sourcelink.json
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project01_FirstProgram\obj\Debug\net8.0\Project01_FirstProgram.dll
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project01_FirstProgram\obj\Debug\net8.0\refint\Project01_FirstProgram.dll
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project01_FirstProgram\obj\Debug\net8.0\Project01_FirstProgram.pdb
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project01_FirstProgram\obj\Debug\net8.0\Project01_FirstProgram.genruntimeconfig.cache
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project01_FirstProgram\obj\Debug\net8.0\ref\Project01_FirstProgram.dll

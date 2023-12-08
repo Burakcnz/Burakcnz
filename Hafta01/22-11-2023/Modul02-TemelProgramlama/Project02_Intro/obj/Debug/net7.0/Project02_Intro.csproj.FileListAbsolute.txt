@@ -1,0 +1,15 @@
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project02_Intro\bin\Debug\net7.0\Project02_Intro.exe
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project02_Intro\bin\Debug\net7.0\Project02_Intro.deps.json
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project02_Intro\bin\Debug\net7.0\Project02_Intro.runtimeconfig.json
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project02_Intro\bin\Debug\net7.0\Project02_Intro.dll
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project02_Intro\bin\Debug\net7.0\Project02_Intro.pdb
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project02_Intro\obj\Debug\net7.0\Project02_Intro.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project02_Intro\obj\Debug\net7.0\Project02_Intro.AssemblyInfoInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project02_Intro\obj\Debug\net7.0\Project02_Intro.AssemblyInfo.cs
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project02_Intro\obj\Debug\net7.0\Project02_Intro.csproj.CoreCompileInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project02_Intro\obj\Debug\net7.0\Project02_Intro.sourcelink.json
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project02_Intro\obj\Debug\net7.0\Project02_Intro.dll
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project02_Intro\obj\Debug\net7.0\refint\Project02_Intro.dll
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project02_Intro\obj\Debug\net7.0\Project02_Intro.pdb
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project02_Intro\obj\Debug\net7.0\Project02_Intro.genruntimeconfig.cache
+F:\GitHub\BurakcnzWorks\Hafta01\22-11-2023\Modul02-TemelProgramlama\Project02_Intro\obj\Debug\net7.0\ref\Project02_Intro.dll

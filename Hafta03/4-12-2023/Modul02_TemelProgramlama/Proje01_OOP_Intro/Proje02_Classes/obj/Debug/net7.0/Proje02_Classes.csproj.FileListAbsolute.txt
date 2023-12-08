@@ -1,0 +1,15 @@
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje02_Classes\obj\Debug\net7.0\Proje02_Classes.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje02_Classes\obj\Debug\net7.0\Proje02_Classes.AssemblyInfoInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje02_Classes\obj\Debug\net7.0\Proje02_Classes.AssemblyInfo.cs
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje02_Classes\obj\Debug\net7.0\Proje02_Classes.csproj.CoreCompileInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje02_Classes\obj\Debug\net7.0\Proje02_Classes.sourcelink.json
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje02_Classes\bin\Debug\net7.0\Proje02_Classes.exe
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje02_Classes\bin\Debug\net7.0\Proje02_Classes.deps.json
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje02_Classes\bin\Debug\net7.0\Proje02_Classes.runtimeconfig.json
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje02_Classes\bin\Debug\net7.0\Proje02_Classes.dll
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje02_Classes\bin\Debug\net7.0\Proje02_Classes.pdb
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje02_Classes\obj\Debug\net7.0\Proje02_Classes.dll
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje02_Classes\obj\Debug\net7.0\refint\Proje02_Classes.dll
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje02_Classes\obj\Debug\net7.0\Proje02_Classes.pdb
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje02_Classes\obj\Debug\net7.0\Proje02_Classes.genruntimeconfig.cache
+F:\GitHub\BurakcnzWorks\Hafta03\4-12-2023\Modul02_TemelProgramlama\Proje01_OOP_Intro\Proje02_Classes\obj\Debug\net7.0\ref\Proje02_Classes.dll

@@ -1,0 +1,15 @@
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje04_NumberFunction\obj\Debug\net7.0\Proje04_NumberFunction.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje04_NumberFunction\obj\Debug\net7.0\Proje04_NumberFunction.AssemblyInfoInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje04_NumberFunction\obj\Debug\net7.0\Proje04_NumberFunction.AssemblyInfo.cs
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje04_NumberFunction\obj\Debug\net7.0\Proje04_NumberFunction.csproj.CoreCompileInputs.cache
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje04_NumberFunction\obj\Debug\net7.0\Proje04_NumberFunction.sourcelink.json
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje04_NumberFunction\bin\Debug\net7.0\Proje04_NumberFunction.exe
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje04_NumberFunction\bin\Debug\net7.0\Proje04_NumberFunction.deps.json
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje04_NumberFunction\bin\Debug\net7.0\Proje04_NumberFunction.runtimeconfig.json
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje04_NumberFunction\bin\Debug\net7.0\Proje04_NumberFunction.dll
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje04_NumberFunction\bin\Debug\net7.0\Proje04_NumberFunction.pdb
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje04_NumberFunction\obj\Debug\net7.0\Proje04_NumberFunction.dll
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje04_NumberFunction\obj\Debug\net7.0\refint\Proje04_NumberFunction.dll
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje04_NumberFunction\obj\Debug\net7.0\Proje04_NumberFunction.pdb
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje04_NumberFunction\obj\Debug\net7.0\Proje04_NumberFunction.genruntimeconfig.cache
+F:\GitHub\BurakcnzWorks\Hafta02\27-11-2023\Proje03_TemelProgramlama\Proje04_NumberFunction\obj\Debug\net7.0\ref\Proje04_NumberFunction.dll
