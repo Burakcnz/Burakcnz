@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\GitHub\\BurakcnzWorks\\Hafta03\\8-12-2023\\Proje06_OOP_Advanced2\\Proje06_OOP_Advanced2.csproj": {}
+    "F:\\GitHub\\Burakcnz\\Hafta03\\8-12-2023\\Proje06_OOP_Advanced2\\Proje06_OOP_Advanced2.csproj": {}
   },
   "projects": {
-    "F:\\GitHub\\BurakcnzWorks\\Hafta03\\8-12-2023\\Proje06_OOP_Advanced2\\Proje06_OOP_Advanced2.csproj": {
+    "F:\\GitHub\\Burakcnz\\Hafta03\\8-12-2023\\Proje06_OOP_Advanced2\\Proje06_OOP_Advanced2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\GitHub\\BurakcnzWorks\\Hafta03\\8-12-2023\\Proje06_OOP_Advanced2\\Proje06_OOP_Advanced2.csproj",
+        "projectUniqueName": "F:\\GitHub\\Burakcnz\\Hafta03\\8-12-2023\\Proje06_OOP_Advanced2\\Proje06_OOP_Advanced2.csproj",
         "projectName": "Proje06_OOP_Advanced2",
-        "projectPath": "F:\\GitHub\\BurakcnzWorks\\Hafta03\\8-12-2023\\Proje06_OOP_Advanced2\\Proje06_OOP_Advanced2.csproj",
+        "projectPath": "F:\\GitHub\\Burakcnz\\Hafta03\\8-12-2023\\Proje06_OOP_Advanced2\\Proje06_OOP_Advanced2.csproj",
         "packagesPath": "C:\\Users\\brkcn\\.nuget\\packages\\",
-        "outputPath": "F:\\GitHub\\BurakcnzWorks\\Hafta03\\8-12-2023\\Proje06_OOP_Advanced2\\obj\\",
+        "outputPath": "F:\\GitHub\\Burakcnz\\Hafta03\\8-12-2023\\Proje06_OOP_Advanced2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brkcn\\AppData\\Roaming\\NuGet\\NuGet.Config",

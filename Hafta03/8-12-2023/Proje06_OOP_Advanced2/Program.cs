@@ -2,9 +2,10 @@
 
 namespace Proje06_OOP_Advanced2
 {
-    internal class Program
+   
+    public class Program
     {
-        public static void DisplayProduct(List<Product> products, string StatusMessage="")
+        public static void DisplayProduct(List<Product> products, string StatusMessage = "")
         {
             Console.WriteLine("--------------------------");
             foreach (var product in products)
@@ -97,11 +98,11 @@ namespace Proje06_OOP_Advanced2
             #region Repository
 
             ProductRepository productRepository = new ProductRepository();
-
+          
             string answer;
             do
             {
-                
+
                 Console.WriteLine("ANA MENÜ");
                 Console.WriteLine("--------------------------");
                 Console.WriteLine("1-Ürünleri Listele");
@@ -124,15 +125,15 @@ namespace Proje06_OOP_Advanced2
                 {
                     //aktif ürünler listeleyecek kodlar
                     List<Product> productsList = productRepository.GetProduct(true);
-                    DisplayProduct(productsList,"Aktif");
-                    Console.ReadLine() ;
+                    DisplayProduct(productsList, "Aktif");
+                    Console.ReadLine();
                 }
                 else if (answer == "3")
                 {
                     //pasif ürünler listeleyecek kodlar
-                    List<Product> productsList=productRepository.GetProduct(false);
-                    DisplayProduct(productsList,"Pasif");
-                    Console.ReadLine() ;
+                    List<Product> productsList = productRepository.GetProduct(false);
+                    DisplayProduct(productsList, "Pasif");
+                    Console.ReadLine();
                 }
                 Console.Clear();
 

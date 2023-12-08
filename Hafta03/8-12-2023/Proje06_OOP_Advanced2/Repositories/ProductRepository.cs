@@ -1,6 +1,14 @@
 ﻿namespace Proje06_OOP_Advanced2.Repositories
 {
-    internal class ProductRepository
+    public class Employee : ProductRepository
+    {
+        public void Deneme()
+        {
+            ProductRepository pr = new ProductRepository();
+            
+        }
+    }
+    public class ProductRepository
     {
         /* Sanki veritabanından yada herhangi bir dış veri kaynağından veri çekiyormuşuz gibi işlem yapacağız.Yani bu durumu simule edecegiz */
 
@@ -33,6 +41,14 @@
             }
 
             return resultList;
+        }
+        public int PublicProperty
+        {
+            get;set;
+        }
+        protected int PrivateProperty
+        {
+            get;set;
         }
     }
 }
