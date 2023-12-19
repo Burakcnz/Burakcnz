@@ -1,0 +1,17 @@
+B:\GitHub\Burakcnz\Modul05-WindowsForm\P01-FormsIntro\bin\Debug\net7.0-windows\P01-FormsIntro.exe
+B:\GitHub\Burakcnz\Modul05-WindowsForm\P01-FormsIntro\bin\Debug\net7.0-windows\P01-FormsIntro.deps.json
+B:\GitHub\Burakcnz\Modul05-WindowsForm\P01-FormsIntro\bin\Debug\net7.0-windows\P01-FormsIntro.runtimeconfig.json
+B:\GitHub\Burakcnz\Modul05-WindowsForm\P01-FormsIntro\bin\Debug\net7.0-windows\P01-FormsIntro.dll
+B:\GitHub\Burakcnz\Modul05-WindowsForm\P01-FormsIntro\bin\Debug\net7.0-windows\P01-FormsIntro.pdb
+B:\GitHub\Burakcnz\Modul05-WindowsForm\P01-FormsIntro\obj\Debug\net7.0-windows\P01-FormsIntro.csproj.GenerateResource.cache
+B:\GitHub\Burakcnz\Modul05-WindowsForm\P01-FormsIntro\obj\Debug\net7.0-windows\P01-FormsIntro.GeneratedMSBuildEditorConfig.editorconfig
+B:\GitHub\Burakcnz\Modul05-WindowsForm\P01-FormsIntro\obj\Debug\net7.0-windows\P01-FormsIntro.AssemblyInfoInputs.cache
+B:\GitHub\Burakcnz\Modul05-WindowsForm\P01-FormsIntro\obj\Debug\net7.0-windows\P01-FormsIntro.AssemblyInfo.cs
+B:\GitHub\Burakcnz\Modul05-WindowsForm\P01-FormsIntro\obj\Debug\net7.0-windows\P01-FormsIntro.csproj.CoreCompileInputs.cache
+B:\GitHub\Burakcnz\Modul05-WindowsForm\P01-FormsIntro\obj\Debug\net7.0-windows\P01-FormsIntro.sourcelink.json
+B:\GitHub\Burakcnz\Modul05-WindowsForm\P01-FormsIntro\obj\Debug\net7.0-windows\P01-FormsIntro.dll
+B:\GitHub\Burakcnz\Modul05-WindowsForm\P01-FormsIntro\obj\Debug\net7.0-windows\refint\P01-FormsIntro.dll
+B:\GitHub\Burakcnz\Modul05-WindowsForm\P01-FormsIntro\obj\Debug\net7.0-windows\P01-FormsIntro.pdb
+B:\GitHub\Burakcnz\Modul05-WindowsForm\P01-FormsIntro\obj\Debug\net7.0-windows\P01-FormsIntro.genruntimeconfig.cache
+B:\GitHub\Burakcnz\Modul05-WindowsForm\P01-FormsIntro\obj\Debug\net7.0-windows\ref\P01-FormsIntro.dll
+B:\GitHub\Burakcnz\Modul05-WindowsForm\P01-FormsIntro\obj\Debug\net7.0-windows\P01_FormsIntro.MainForm.resources

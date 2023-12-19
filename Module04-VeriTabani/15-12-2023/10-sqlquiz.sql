@@ -23,11 +23,11 @@ GO
 --select top(3) p.ProductName,sum(p.UnitPrice*od.Quantity) as total from Products p join OrderDetails od on p.ProductID=od.ProductID group by p.ProductName order by total desc
 
 --8-hangi kargo þirketine ne kadarlýk ödeme yapýlmýþtýr
-
+--select s.CompanyName,sum(o.Freight)as total from Orders o join Shippers s on o.ShipVia=s.ShipperID group by s.CompanyName
 --9-bugüne kadar en az ödeme yapýlmýþ kargo þirketi ve ödeme mýktarý
-
+--select top(1) s.CompanyName,sum(o.Freight)as total from Orders o join Shippers s on o.ShipVia=s.ShipperID group by s.CompanyName order by total
 --10-hangi müþteriye ne kadarlýk satýþ yapýlmýþtýr?satýþ tutarýna göre büyükten küçüðe sýralý þekilde gösterin
-
+select c.CompanyName,sum(od.Quantity*od.UnitPrice) as total from Customers c join Orders o on c.CustomerID=o.CustomerID join OrderDetails od on o.OrderID=od.OrderID group by c.CompanyName order by total desc
 --11-bölgelere göre satýþ tutarlarýný gösterin
 
 --12-hangi bölgede hangi üründen ne kadarlýk satýþ yapýlmýþtýr
