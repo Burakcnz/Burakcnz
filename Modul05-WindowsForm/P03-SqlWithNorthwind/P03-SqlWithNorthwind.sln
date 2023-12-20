@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03-SqlWithNorthwind", "P03-SqlWithNorthwind.csproj", "{0AEF4B0A-6C3E-4BB0-BFEB-6DA56C7F215C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AEF4B0A-6C3E-4BB0-BFEB-6DA56C7F215C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AEF4B0A-6C3E-4BB0-BFEB-6DA56C7F215C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AEF4B0A-6C3E-4BB0-BFEB-6DA56C7F215C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AEF4B0A-6C3E-4BB0-BFEB-6DA56C7F215C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DB37AE3-EE58-4EA2-802D-796B1E12583B}
+	EndGlobalSection
+EndGlobal
