@@ -63,7 +63,7 @@ namespace P03_SqlWithNorthwind
                SELECT
                  c.CategoryID,
                  c.CategoryName,
-                 c.Description
+                c.Description
                FROM Categories c";
             SqlCommand cmd = new SqlCommand(queryString, connection);
             OpenDataBase();
@@ -79,6 +79,7 @@ namespace P03_SqlWithNorthwind
                     Id = (int)dataReader["CategoryID"],
                     Name = dataReader["CategoryName"].ToString(),
                     Description = (string)dataReader["Description"]
+                    //Description = (string)dataReader["Description"]
                 };
                 categories.Add(category);
             }

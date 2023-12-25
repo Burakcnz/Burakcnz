@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P03-SqlWithNorthwind")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba141ba86a0d77f6e8a9ed338500174d7c91a3f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+768fdfe7a1eb4d280109d91c9cdb2a6c33cebc18")]
 [assembly: System.Reflection.AssemblyProductAttribute("P03-SqlWithNorthwind")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P03-SqlWithNorthwind")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
