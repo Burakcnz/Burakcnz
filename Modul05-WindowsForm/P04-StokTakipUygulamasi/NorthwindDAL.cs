@@ -1,19 +1,16 @@
 ﻿using P03_SqlWithNorthwind.Entities;
+using P03_SqlWithNorthwind.Models;
 using System.Data;
 using System.Data.SqlClient;
 
 namespace P03_SqlWithNorthwind
 {
-    internal class NorthwindDAL
+    internal static class NorthwindDAL
     {
-        SqlConnection connection;
+        static SqlConnection connection=CreateConnection();
 
-        public NorthwindDAL()
-        {
-            connection = CreateConnection();
-        }
 
-        private SqlConnection CreateConnection()
+        private static SqlConnection CreateConnection()
         {
             string serverName = "DESKTOP-3O41JPC";
             string dbName = "Northwind";
@@ -22,7 +19,7 @@ namespace P03_SqlWithNorthwind
 
 
         }
-        private void OpenDataBase()
+        private static void OpenDataBase()
         {
             if (connection.State == ConnectionState.Closed)
             {
@@ -30,7 +27,7 @@ namespace P03_SqlWithNorthwind
 
             }
         }
-        private void CloseDataBase()
+        private static void CloseDataBase()
         {
             if (connection.State == ConnectionState.Open)
             {
@@ -38,7 +35,7 @@ namespace P03_SqlWithNorthwind
             }
         }
 
-        public DataTable GetAllProducts()
+        public static DataTable GetAllProducts()
         {
             string queryString = @"
             SELECT
@@ -46,7 +43,8 @@ namespace P03_SqlWithNorthwind
                p.ProductName AS [Ürün],
                c.CategoryName AS [Kategori],
                p.UnitPrice AS [Fiyat],
-               p.UnitsInStock AS [Stok] 
+               p.UnitsInStock AS [Stok],
+               c.CategoryID AS [CategoryID]
              FROM Products p 
 	          JOIN Categories c 
 		       ON p.CategoryID=c.CategoryID";
@@ -57,7 +55,7 @@ namespace P03_SqlWithNorthwind
             CloseDataBase();//aslında sql dataadapter sınıfından yaratılan nesnemiz oto olarak bağlantıyı kapatır.biz burada sadece mantığını anlayalım diye yazdık.
             return dataTable;
         }
-        public List<Category> GetAllCategories()
+        public static LinkedList<Category> GetAllCategories()
         {
             string queryString = @"
                SELECT
@@ -68,9 +66,9 @@ namespace P03_SqlWithNorthwind
             SqlCommand cmd = new SqlCommand(queryString, connection);
             OpenDataBase();
             SqlDataReader dataReader = cmd.ExecuteReader();
-            List<Category> categories = new List<Category>();
+            LinkedList<Category> categories = new();
             Category category;
-            categories.Add(new Category { Id = 0, Name = "Tümü" });
+
             while (dataReader.Read() == true)
             {
                 category = new Category()
@@ -81,33 +79,14 @@ namespace P03_SqlWithNorthwind
                     Description = (string)dataReader["Description"]
                     //Description = (string)dataReader["Description"]
                 };
-                categories.Add(category);
+                categories.AddLast(category);
             }
             CloseDataBase();
             return categories;
 
         }
-        //public DataTable GetAllProductsByCategoryId(int id)
-        //{
-        //    string queryString = @"
-        //        SELECT
-        //         p.ProductID AS [ID],
-        //         p.ProductName AS [Ürün],
-        //         c.CategoryName AS [Kategori],
-        //         p.UnitPrice AS [Fiyat],
-        //         p.UnitsInStock AS [Stok] 
-        //        FROM Products p 
-        //         JOIN Categories c 
-        //          ON p.CategoryID=c.CategoryID
-        //  WHERE c.CategoryID = "+id;
-        //    SqlDataAdapter dataAdapter=new SqlDataAdapter(queryString, connection);
-        //    DataTable table = new DataTable();
-        //    OpenDataBase();
-        //    dataAdapter.Fill(table);
-        //    CloseDataBase();
-        //    return table;
-        //}
-        public List<Product> GetAllProductsByCategoryId(int id)
+
+        public static List<Product> GetAllProductsByCategoryId(int id)
         {
             string queryString = @$"
                 SELECT
@@ -115,7 +94,8 @@ namespace P03_SqlWithNorthwind
 	                p.ProductName AS [Ürün],
 	                c.CategoryName AS [Kategori],
 	                p.UnitPrice AS [Fiyat],
-	                p.UnitsInStock AS [Stok] 
+	                p.UnitsInStock AS [Stok],
+                    c.CategoryID AS [CategoryID]
                 FROM Products p 
 	                JOIN Categories c 
 		                ON p.CategoryID=c.CategoryID
@@ -133,16 +113,56 @@ namespace P03_SqlWithNorthwind
                 {
                     Id = (int)dataReader["Id"],
                     Name = (string)dataReader["Ürün"],
-                    Category= (string)dataReader["Kategori"],
+                    Category = (string)dataReader["Kategori"],
                     Price = (decimal)dataReader["Fiyat"],
-                    Stock = (Int16)dataReader["Stok"]
-                   
+                    Stock = (Int16)dataReader["Stok"],
+                    CategoryId = (Int32)dataReader["CategoryID"],
+
                 };
                 products.Add(product);
             }
             CloseDataBase();
             return products;
 
+        }
+        public static void CreateProduct(AddProductModel model)
+        {
+            model.Price = Convert.ToInt32(model.Price);
+            string quryString = $@"
+                INSERT INTO Products 
+                	(ProductName,CategoryID,UnitPrice,UnitsInStock) 
+                VALUES 
+                	('{model.Name}',{model.CategoryID},{model.Price},{model.Stock})";
+            OpenDataBase();
+            SqlCommand cmd = new SqlCommand(quryString, connection);
+            cmd.ExecuteNonQuery();
+            CloseDataBase();
+        }
+
+        public static void UpdateProduct(Product model)
+        {
+            model.Price = Convert.ToInt32(model.Price);
+            string quryString = $@"
+                UPDATE Products SET 
+	                ProductName='{model.Name}',
+	                UnitPrice={model.Price},
+	                UnitsInStock={model.Stock},
+	                CategoryID={model.CategoryId}
+                WHERE ProductID={model.Id}";
+            OpenDataBase();
+            SqlCommand cmd = new SqlCommand(quryString, connection);
+            cmd.ExecuteNonQuery();
+            CloseDataBase();
+        }
+        public static void DeleteProduct(int id)
+        {           
+            string quryString = $@"
+                DELETE Products 	          
+                WHERE ProductID={id}";
+            OpenDataBase();
+            SqlCommand cmd = new SqlCommand(quryString, connection);
+            cmd.ExecuteNonQuery();
+            CloseDataBase();
         }
     }
 }

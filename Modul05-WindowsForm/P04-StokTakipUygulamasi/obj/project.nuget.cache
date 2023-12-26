@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y4feuoH1VcLalpaEp66OZqvxQYmyVRDoHEWsEVL6/gCM+RR6lvvb2a0v6PNWOIi/FrIv1f6CL7181QBfTE2+Jg==",
+  "dgSpecHash": "wWz08365xaEpjRegcWJqV4ONQ99BEySsl6fpzRS5iQsaJssOPN6JxdXYy000zKU0UWu24oYpOZZS87DkVHR5cw==",
   "success": true,
-  "projectFilePath": "B:\\GitHub\\Burakcnz\\Modul05-WindowsForm\\P03.2-SqlWithNorthwind\\P03-SqlWithNorthwind.csproj",
+  "projectFilePath": "B:\\GitHub\\Burakcnz\\Modul05-WindowsForm\\P04-StokTakipUygulamasi\\P03-SqlWithNorthwind.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brkcn\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\brkcn\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

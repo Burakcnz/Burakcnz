@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\GitHub\\Burakcnz\\Modul05-WindowsForm\\P03.2-SqlWithNorthwind\\P03-SqlWithNorthwind.csproj",
+      "projectUniqueName": "B:\\GitHub\\Burakcnz\\Modul05-WindowsForm\\P04-StokTakipUygulamasi\\P03-SqlWithNorthwind.csproj",
       "projectName": "P03-SqlWithNorthwind",
-      "projectPath": "B:\\GitHub\\Burakcnz\\Modul05-WindowsForm\\P03.2-SqlWithNorthwind\\P03-SqlWithNorthwind.csproj",
+      "projectPath": "B:\\GitHub\\Burakcnz\\Modul05-WindowsForm\\P04-StokTakipUygulamasi\\P03-SqlWithNorthwind.csproj",
       "packagesPath": "C:\\Users\\brkcn\\.nuget\\packages\\",
-      "outputPath": "B:\\GitHub\\Burakcnz\\Modul05-WindowsForm\\P03.2-SqlWithNorthwind\\obj\\",
+      "outputPath": "B:\\GitHub\\Burakcnz\\Modul05-WindowsForm\\P04-StokTakipUygulamasi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\brkcn\\AppData\\Roaming\\NuGet\\NuGet.Config",

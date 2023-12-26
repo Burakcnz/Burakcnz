@@ -4,15 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace P03_SqlWithNorthwind.Entities
+namespace P03_SqlWithNorthwind.Models
 {
-    internal class Product
+    internal class AddProductModel
     {
-        public int Id { get; set; }
         public string Name { get; set; }
-        public string Category { get; set; }
+        public int CategoryID { get; set; }
         public decimal Price { get; set; }
         public int Stock { get; set; }
-        public int CategoryId { get; set; }
     }
 }
