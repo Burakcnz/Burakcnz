@@ -1,0 +1,23 @@
+#first {
+    background-color: aqua;
+}
+
+#second {
+    background-color: red;
+}
+
+#third {
+    background-color: yellow;
+}
+
+#container {
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    border: 1px, solid black;
+    width: 100px;
+    display: inline-block;
+    text-align: center;
+}

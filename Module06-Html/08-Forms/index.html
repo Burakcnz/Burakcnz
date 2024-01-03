@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="tr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Forms</title>
+    </head>
+    <body>
+        <h1>Forms</h1>
+        <form>
+            <div>
+                <label for style="color: red;">Ad:</label>
+                <input type="text">
+            </div>
+            <div> <label for style="color: red;">Soyad:</label>
+                <input type="text">
+            </div>
+
+            <div>
+                <label for style="color: red;">Parola:</label>
+                <input type="password">
+            </div>
+            <div>
+                <label for style="color: red;">Email:</label>
+                <input type="email">
+            </div>
+            <div>
+                <label for style="color: red;">Resim:</label>
+                <input type="file" accept="image/png"">
+            </div>
+            <h2>Eğitim Seviyesi</h2>
+            <div>
+                <input name="egitim-durumu" type="radio"><label
+                    for>İlköğretim</label>
+                <input name="egitim-durumu" type="radio"><label
+                    for>Ortaöğretim</label>
+                <input name="egitim-durumu" type="radio"><label
+                    for>Lisans</label>
+                <input name="egitim-durumu" type="radio"><label for>Lisans
+                    Üstü</label>
+            </div>
+            <h2>Cinsiyet</h2>
+            <div>
+                <input id="erkek" name="gender" type="radio"> <label
+                    for="erkek">Erkek</label>
+                <input id="kadin" name="gender" type="radio"> <label
+                    for="kadin">Kadın</label>
+            </div>
+            <h2>Hobileriniz</h2>
+            <div>
+                <input id="kitap" type="checkbox"> <label for="kitap">Kitap
+                    Okumak</label>
+                <input id="film" type="checkbox"> <label for="film">Film
+                    İzlemek</label>
+                <input id="Resim" type="checkbox"> <label for="Resim">Resim
+                    Yapmakk</label>
+                <input id="Gezmek" type="checkbox"> <label
+                    for="Gezmek">Gezmek</label>
+            </div>
+            <h2>Şehir</h2>
+            <div>
+                <select>
+                    <option value="34">İstanbul</option>
+                    <option value="06">Ankara</option>
+                    <option value="">Bursa</option>
+                    <option value="">Isparta</option>
+                    <option value="35">İzmir</option>
+                </select>
+            </div>
+            <div>
+                <input type="submit" value="Gönder">
+                <input type="reset" value="Temizle">
+                <button type="submit">Kaydet</button>
+            </div>
+        </form>
+    </body>
+</html>

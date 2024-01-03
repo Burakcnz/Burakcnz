@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: aqua;
+    height: 100vh;
+}
+
+#page-title {
+    font-size: 30px;
+    padding: 0px;
+    background-color: rebeccapurple;
+    color: white;
+    border: 10px solid blue;
+    width: calc(100vw - 200px);
+}
+
+#main {
+    background-color: cadetblue;
+    color: whitesmoke;
+}
+
+#header h1 {
+    background-color: gold;
+    color: rgb(64, 0, 255);
+    width: 200px;
+    /*padding: 10px 20px 30px 40px;
+    margin: 10px 20px 30px 40px;
+    border: 2px rgb(255, 0, 4) solid;
+    padding: 20px 40px;
+    padding: 5px 30px 60px;*/
+}
+
+#content {
+    background-color: rgb(60, 255, 0);
+    color: rgb(0, 17, 255);
+    margin: 10px;
+    padding: 10px;
+    height: 250px;
+}
+#about p{
+    /*border-width: 1px;
+    border-style: dotted;
+    border-color: red;*/
+    border: 1px dotted red;
+    border-radius: 10px;
+}
