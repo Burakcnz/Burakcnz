@@ -1,5 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/*
+     First:   #6FE7DD
+     Second:  #3490DE
+     Primary: #6639A6
+     Back:    #521262
+*/
 
+:root {
+    --first-color: #6FE7DD;
+    --info-color: #3490DE;
+    --info-color-hover: #3fa5ff;
+    --primary-color: #6639A6;
+    --secondary-color: #521262;
+    --white-color: #fff;
+    --darc-color: #000;
+    --grey-color: #607274;
+}
 
 * {
     margin: 0;
@@ -7,7 +23,115 @@
     box-sizing: border-box;
 }
 
+
 body {
     font-family: Poppins, sans-serif;
     font-weight: 500;
+}
+
+.container {
+    height: 100vh;
+}
+
+.header {
+    background-color: var(--first-color);
+    padding: 16px 32px;
+}
+
+a {
+    text-decoration: none;
+    color: var(--white-color);
+}
+
+.brand {
+    color: var(--white-color);
+    font-size: 3em;
+    font-weight: 500;
+}
+
+.menu {
+    display: inline-block;
+    width: calc(100% - 170px);
+    text-align: right;
+}
+
+.menu-items {
+    list-style-type: none;
+}
+
+.menu-item {
+    border-radius: 5px;
+    display: inline-block;
+    background-color: var(--info-color);
+    width: 120px;
+    text-align: center;
+}
+
+.menu-item a {
+    display: inline-block;
+    width: 100%;
+    padding: 5px 0px;
+}
+
+.menu-item:hover {
+    /* background-color: var(--primary-color); */
+    /* opacity: 0.85; */
+    background-color: var(--info-color-hover);
+    border-bottom: 2px solid var(--grey-color);
+    border-right: 2px solid var(--grey-color);
+}
+
+.main {
+    background: url("https://picsum.photos/seed/picsum/1920/1080");
+    height: calc(100% - 104px);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* background-color: rgba(39, 39, 39,0.5); */
+}
+
+#title {
+    color: var(--white-color);
+    text-align: center;
+    padding-left: calc(50vw - 150px);
+    padding-top: calc(50vh - 90px);
+
+}
+
+#title h1 {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 25%;
+    padding: 5px;
+}
+
+#how-it-works {
+    text-align: center;
+    padding: 20px;
+}
+
+#how-it-works h2 {
+    font-size: 3em;
+    color: var(--first-color);
+}
+
+#how-it-works p {
+    width: 50%;
+    text-align: center;
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.steps {
+    margin-top: 40px;
+}
+
+.step {
+    width: 33%;
+    display: inline-block;
+}
+
+.step i {
+    font-size: 3em;
+    color: var(--secondary-color);
+    margin-bottom: 20px;
 }
