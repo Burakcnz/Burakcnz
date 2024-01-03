@@ -1,0 +1,25 @@
+.box{
+    width: 75px;
+    height: 75px;
+    margin: 5px;
+}
+#orange{
+    background-color: orange;
+}
+#yellow{
+    background-color: yellow;
+}
+#blue{
+    background-color: blue;
+    float: right;
+}
+#container{
+    background-color: chartreuse;
+    /* overflow: auto; */
+}
+
+#container::after{
+    content:"";
+    clear: both;
+    display: table;
+}
