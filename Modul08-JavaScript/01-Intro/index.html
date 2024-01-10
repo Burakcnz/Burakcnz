@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="tr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>JavaScript Intro</title>
+    </head>
+    <body>
+        <button onclick="alert('Merhaba JS')">Tıkla</button>
+        <button onmouseover="alert('gitmee')">Üzerime Gel</button>
+        <div onclick="alert('selam')">bu da div</div>
+        <div style="width: 20px;height: 20px;background-color: aqua;"
+            onmouseover="alert('menü açılıyor')"></div>
+        <br>
+        <button onclick="selamVer()">bu internal js kodu</button>
+        <button id="btn_topla">Topla</button>
+        <script>
+            function selamVer(){
+                alert("Selam Dünya")
+            }
+        </script>
+        <script src="app.js"></script>
+    </body>
+</html>
