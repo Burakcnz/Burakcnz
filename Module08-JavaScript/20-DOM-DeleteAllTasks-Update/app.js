@@ -3,28 +3,17 @@ const taskList = document.getElementById("task-list");
 const taskInput = document.getElementById("task-input");
 const btnAddTask = document.getElementById("btn-add-task");
 const btnClearAll = document.getElementById("btn-clear-all");
-const filters = document.querySelectorAll("#filters span");
 
 let isEditMode = false;
 let editedTaskId;
-let filterMode = 'all';
 
-
-
-function getTasks() {
-    let tasks = [];
-    if (localStorage.getItem("TaskList") !== null) {
-        tasks = JSON.parse(localStorage.getItem("TaskList"));
-    }
-    return tasks;
-}
-
-let taskListArray = getTasks();
-function setTasks() {
-    localStorage.setItem("TaskList", JSON.stringify(taskListArray));
-}
-
-
+let taskListArray = [
+    { 'id': 1, 'taskName': 'Netflixi kapat', 'completed': true },
+    { 'id': 2, 'taskName': 'Pilavı unutma', 'completed': false },
+    { 'id': 3, 'taskName': 'Mustafayı ara', 'completed': false },
+    { 'id': 4, 'taskName': 'Raporu hazırla', 'completed': true },
+    { 'id': 5, 'taskName': 'Kitap oku', 'completed': false }
+];
 
 btnAddTask.addEventListener("click", addTask);
 
@@ -42,20 +31,17 @@ function addTask(e) {
                     isEditMode = false;
                     btnAddTask.innerText = "Ekle";
                     btnAddTask.classList.remove("btn-warning");
-                    setTasks();
-                    break;
                 }
             }
         } else {//YENİ KAYIT
-            const id = taskListArray.length > 0 ? taskListArray[taskListArray.length - 1].id + 1 : 1;
+            const id = taskListArray[taskListArray.length - 1].id + 1;
             const newTask = { 'id': id, 'taskName': value }
             taskListArray.push(newTask);
-            setTasks();
         }
 
         taskInput.value = "";
         taskInput.focus();
-        displayTasks(filterMode);
+        displayTasks();
     }
 }
 
@@ -65,28 +51,15 @@ function clearAll() {
     let answer = confirm('Tüm görevler silinecektir!');
     if (answer) {
         taskListArray = [];
-        setTasks();
-        displayTasks(filterMode);
+        displayTasks();
     }
 }
 
-for (const span of filters) {
-    span.addEventListener("click", function () {
-        document.querySelector("span.active").classList.remove("active");
-        span.classList.add("active");
-        filterMode = span.id;
-        displayTasks(filterMode);
-    });
-}
-
-function displayTasks(filterMode) {
+function displayTasks() {
     taskList.innerHTML = "";
     let liElement;
     for (const task of taskListArray) {
-        // const completed = task.completed ? ""
-        const completed = task.completed ? "completed" : "pending";
-        if (completed == filterMode || filterMode == "all") {
-            liElement = `
+        liElement = `
         <li class="list-group-item task d-flex">
             <div class="form-check align-items-center d-flex gap-1">
                 <input onclick="updateStatus(${task.id});" class="form-check-input" type="checkbox" value="" id="${task.id}" ${task.completed ? 'checked' : ''}>
@@ -100,9 +73,7 @@ function displayTasks(filterMode) {
             </div>
         </li>
     `;
-            taskList.insertAdjacentHTML("beforeend", liElement);
-        }
-
+        taskList.insertAdjacentHTML("beforeend", liElement);
     }
 }
 
@@ -115,8 +86,7 @@ function deleteTask(id) {
         }
     }
     taskListArray.splice(deletedIndex, 1);
-    setTasks();
-    displayTasks(filterMode);
+    displayTasks();
 }
 
 function editTask(id, taskName) {
@@ -132,12 +102,11 @@ function updateStatus(id) {
     for (let i = 0; i < taskListArray.length; i++) {
         if (taskListArray[i].id == id) {
             taskListArray[i].completed = !taskListArray[i].completed;
-            setTasks();
             break;
         }
     }
-    displayTasks(filterMode);
+    displayTasks();
 }
 
-displayTasks(filterMode);
+displayTasks();
 

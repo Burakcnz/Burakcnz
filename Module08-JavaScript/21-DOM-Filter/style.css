@@ -1,8 +1,8 @@
-#filters span{
+#filters span {
     cursor: pointer;
     font-weight: bold;
 }
 
-#filters span.active{
+#filters span.active {
     color: darkcyan;
 }
