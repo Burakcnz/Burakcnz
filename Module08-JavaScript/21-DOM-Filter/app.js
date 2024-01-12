@@ -3,7 +3,7 @@ const taskList = document.getElementById("task-list");
 const taskInput = document.getElementById("task-input");
 const btnAddTask = document.getElementById("btn-add-task");
 const btnClearAll = document.getElementById("btn-clear-all");
-
+const filters = document.getElementById("filters")
 let isEditMode = false;
 let editedTaskId;
 
@@ -44,7 +44,7 @@ function addTask(e) {
 
         taskInput.value = "";
         taskInput.focus();
-        displayTasks();
+        displayTasks(filterMode);
     }
 }
 
@@ -54,12 +54,19 @@ function clearAll() {
     let answer = confirm('Tüm Görevler Silinecek!');
     if (answer) {
         taskListArray = [];
-        displayTasks();
+        displayTasks(filterMode);
     }
 
 }
 
-function displayTasks() {
+for (const span of filters) {
+    span.addEventListener("click", function () {
+        document.querySelector("span.active").classList.remove("active");
+        span.classList.add("active");
+    })
+}
+
+function displayTasks(filterMode) {
     taskList.innerHTML = "";
     let liElement;
     for (const task of taskListArray) {
@@ -90,7 +97,7 @@ function deleteTask(id) {
         }
     }
     taskListArray.splice(deletedIndex, 1);
-    displayTasks();
+    displayTasks(filterMode);
 }
 
 function editTask(id, taskName) {
@@ -109,8 +116,8 @@ function updateStatus(id) {
             break;
         }
     }
-    displayTasks();
+    displayTasks(filterMode);
 }
 
-displayTasks();
+displayTasks(filterMode);
 
