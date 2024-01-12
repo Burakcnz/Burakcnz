@@ -4,7 +4,7 @@ const taskInput = document.getElementById("task-input");
 const btnAddTask = document.getElementById("btn-add-task");
 const btnClearAll = document.getElementById("btn-clear-all");
 
-
+let isEditMode=false;
 
 let taskListArray = [
     { 'id': 1, 'taskName': 'Netflixi kapat' },
