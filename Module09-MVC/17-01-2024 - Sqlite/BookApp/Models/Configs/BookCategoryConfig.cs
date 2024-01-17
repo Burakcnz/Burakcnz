@@ -1,4 +1,4 @@
-﻿using BookApp.Models.Entitys.Concrete;
+﻿using BookApp.Models.Entities.Concrete;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
@@ -8,30 +8,83 @@ namespace BookApp.Models.Configs
     {
         public void Configure(EntityTypeBuilder<BookCategory> builder)
         {
-            builder.HasKey(bc => new { bc.BookID, bc.CategoryID });
-
+            builder.HasKey(bc=>new { bc.BookId, bc.CategoryId });
             builder.ToTable("BookCategories");
+
             builder.HasData(
-                new BookCategory { BookID = 1, CategoryID = 1 },
-                new BookCategory { BookID = 1, CategoryID = 2 },
-                new BookCategory { BookID = 1, CategoryID = 3 },
+                new BookCategory { BookId = 1, CategoryId = 5 },
+                new BookCategory { BookId = 1, CategoryId = 10 },
 
-                new BookCategory { BookID = 2, CategoryID = 3 },
-                new BookCategory { BookID = 2, CategoryID = 5 },
+                new BookCategory { BookId = 2, CategoryId = 13 },
+                new BookCategory { BookId = 2, CategoryId = 4 },
 
+                new BookCategory { BookId = 3, CategoryId = 5 },
+                new BookCategory { BookId = 3, CategoryId = 1 },
+                new BookCategory { BookId = 3, CategoryId = 10 },
 
-                new BookCategory { BookID = 3, CategoryID = 2 },
-                new BookCategory { BookID = 3, CategoryID = 4 },
-                new BookCategory { BookID = 3, CategoryID = 5 },
+                new BookCategory { BookId = 4, CategoryId = 5 },
+                new BookCategory { BookId = 4, CategoryId = 1 },
+                new BookCategory { BookId = 4, CategoryId = 10 },
 
-                new BookCategory { BookID = 4, CategoryID = 3 },
+                new BookCategory { BookId = 5, CategoryId = 5 },
+                new BookCategory { BookId = 5, CategoryId = 10 },
+                new BookCategory { BookId = 5, CategoryId = 3 },
 
-                new BookCategory { BookID = 5, CategoryID = 1 },
-                new BookCategory { BookID = 5, CategoryID = 2 },
-                new BookCategory { BookID = 5, CategoryID = 4 },
-                new BookCategory { BookID = 5, CategoryID = 5 }
+                new BookCategory { BookId = 6, CategoryId = 5 },
+                new BookCategory { BookId = 6, CategoryId = 10 },
+                new BookCategory { BookId = 6, CategoryId = 3 },
 
-                );
+                new BookCategory { BookId = 7, CategoryId = 5 },
+                new BookCategory { BookId = 7, CategoryId = 1 },
+
+                new BookCategory { BookId = 8, CategoryId = 5 },
+                new BookCategory { BookId = 8, CategoryId = 10 },
+                new BookCategory { BookId = 8, CategoryId = 3 },
+
+                new BookCategory { BookId = 9, CategoryId = 7 },
+                new BookCategory { BookId = 9, CategoryId = 8 },
+                new BookCategory { BookId = 9, CategoryId = 12 },
+
+                new BookCategory { BookId = 10, CategoryId = 5 },
+                new BookCategory { BookId = 10, CategoryId = 1 },
+                new BookCategory { BookId = 10, CategoryId = 10 },
+
+                new BookCategory { BookId = 11, CategoryId = 5 },
+                new BookCategory { BookId = 11, CategoryId = 1 },
+                new BookCategory { BookId = 11, CategoryId = 10 },
+
+                new BookCategory { BookId = 12, CategoryId = 2 },
+                new BookCategory { BookId = 12, CategoryId = 9 },
+                new BookCategory { BookId = 12, CategoryId = 6 },
+
+                new BookCategory { BookId = 13, CategoryId = 5 },
+                new BookCategory { BookId = 13, CategoryId = 10 },
+                new BookCategory { BookId = 13, CategoryId = 11 },
+
+                new BookCategory { BookId = 14, CategoryId = 5 },
+                new BookCategory { BookId = 14, CategoryId = 1 },
+                new BookCategory { BookId = 14, CategoryId = 10 },
+
+                new BookCategory { BookId = 15, CategoryId = 13 },
+                new BookCategory { BookId = 15, CategoryId = 14 },
+
+                new BookCategory { BookId = 16, CategoryId = 13 },
+                new BookCategory { BookId = 16, CategoryId = 4 },
+
+                new BookCategory { BookId = 17, CategoryId = 5 },
+                new BookCategory { BookId = 17, CategoryId = 10 },
+
+                new BookCategory { BookId = 18, CategoryId = 5 },
+                new BookCategory { BookId = 18, CategoryId = 10 },
+
+                new BookCategory { BookId = 19, CategoryId = 5 },
+                new BookCategory { BookId = 19, CategoryId = 1 },
+                new BookCategory { BookId = 19, CategoryId = 10 },
+
+                new BookCategory { BookId = 20, CategoryId = 1 },
+                new BookCategory { BookId = 20, CategoryId = 3 },
+                new BookCategory { BookId = 20, CategoryId = 5 });
+
         }
     }
 }

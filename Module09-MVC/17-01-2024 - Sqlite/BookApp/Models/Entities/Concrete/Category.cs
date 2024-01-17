@@ -1,11 +1,11 @@
-﻿using BookApp.Models.Entitys.Abstract;
+﻿using BookApp.Models.Entities.Abstract;
 
-namespace BookApp.Models.Entitys.Concrete
+namespace BookApp.Models.Entities.Concrete
 {
     public class Category : BaseEntity
     {
         public string Name { get; set; }
         public string Description { get; set; }
-        public string URL { get; set; }
+        public string Url { get; set; }
     }
 }

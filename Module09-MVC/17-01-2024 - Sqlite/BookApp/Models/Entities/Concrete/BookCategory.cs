@@ -1,8 +1,11 @@
-﻿namespace BookApp.Models.Entitys.Concrete
+﻿namespace BookApp.Models.Entities.Concrete
 {
+    //ORM-Object Relational Mapping
+    //Entity Framework
+    //Dapper
     public class BookCategory
     {
-        public int BookID { get; set; }
-        public int CategoryID { get; set; }
+        public int BookId { get; set; }
+        public int CategoryId { get; set; }
     }
 }

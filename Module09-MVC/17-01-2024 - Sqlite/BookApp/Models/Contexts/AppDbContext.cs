@@ -1,14 +1,14 @@
 ﻿using BookApp.Models.Configs;
-using BookApp.Models.Entitys.Concrete;
+using BookApp.Models.Entities.Concrete;
 using Microsoft.EntityFrameworkCore;
 
 namespace BookApp.Models.Contexts
 {
-    public class AppDbContext : DbContext
+    public class AppDbContext:DbContext
     {
-        public AppDbContext(DbContextOptions options) : base(options)
+        public AppDbContext(DbContextOptions options):base(options)
         {
-
+            //Dependency Injection
         }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Book> Books { get; set; }
@@ -19,7 +19,9 @@ namespace BookApp.Models.Contexts
             modelBuilder.ApplyConfiguration(new BookConfig());
             modelBuilder.ApplyConfiguration(new BookCategoryConfig());
 
+
             base.OnModelCreating(modelBuilder);
         }
+
     }
 }

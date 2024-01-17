@@ -1,13 +1,13 @@
-﻿using BookApp.Models.Entitys.Abstract;
+﻿using BookApp.Models.Entities.Abstract;
 
-namespace BookApp.Models.Entitys.Concrete
+namespace BookApp.Models.Entities.Concrete
 {
     public class Book : BaseEntity
     {
         public string Name { get; set; }
         public string Abstract { get; set; }
-        public string URL { get; set; }
-        public string ImageURL { get; set; }
+        public string Url { get; set; }
+        public string ImageUrl { get; set; }
         public int Stock { get; set; }
         public decimal Price { get; set; }
         public int PageCount { get; set; }
