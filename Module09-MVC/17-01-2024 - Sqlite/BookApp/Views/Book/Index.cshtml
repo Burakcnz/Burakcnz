@@ -1,1 +1,8 @@
-﻿<h1>Kitaplar</h1>
+﻿@using BookApp.Models.Entities.Concrete;
+@model List<Book>
+
+<h1>Kitaplar</h1>
+@foreach (var b in Model)
+{
+    <div>@b.Name</div>
+}
