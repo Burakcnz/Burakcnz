@@ -1,0 +1,221 @@
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\appsettings.Development.json
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\appsettings.json
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\BookApp.staticwebassets.runtime.json
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\BookApp.exe
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\BookApp.deps.json
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\BookApp.runtimeconfig.json
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\BookApp.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\BookApp.pdb
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\BookApp.GeneratedMSBuildEditorConfig.editorconfig
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\BookApp.AssemblyInfoInputs.cache
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\BookApp.AssemblyInfo.cs
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\BookApp.csproj.CoreCompileInputs.cache
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\BookApp.MvcApplicationPartsAssemblyInfo.cache
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\BookApp.RazorAssemblyInfo.cache
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\BookApp.RazorAssemblyInfo.cs
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\BookApp.sourcelink.json
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\staticwebassets.build.json
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\staticwebassets.development.json
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\staticwebassets\msbuild.BookApp.Microsoft.AspNetCore.StaticWebAssets.props
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\staticwebassets\msbuild.build.BookApp.props
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BookApp.props
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BookApp.props
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\staticwebassets.pack.json
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\scopedcss\bundle\BookApp.styles.css
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\scopedcss\projectbundle\BookApp.bundle.scp.css
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\BookApp.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\refint\BookApp.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\BookApp.pdb
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\BookApp.genruntimeconfig.cache
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\ref\BookApp.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\Azure.Core.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\Azure.Identity.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\System.Drawing.Common.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\System.Memory.Data.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\System.Security.Permissions.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\BookApp.csproj.AssemblyReference.cache
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\obj\Debug\net7.0\BookApp.csproj.CopyComplete
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\Humanizer.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+B:\GitHub\Burakcnz\Module09-MVC\15-01-2024\BookApp\bin\Debug\net7.0\System.CodeDom.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\appsettings.Development.json
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\appsettings.json
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\BookApp.staticwebassets.runtime.json
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\BookApp.exe
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\BookApp.deps.json
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\BookApp.runtimeconfig.json
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\BookApp.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\BookApp.pdb
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\Azure.Core.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\Azure.Identity.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\Humanizer.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\System.CodeDom.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\System.Drawing.Common.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\System.Memory.Data.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\System.Security.Permissions.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\BookApp.csproj.AssemblyReference.cache
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\BookApp.GeneratedMSBuildEditorConfig.editorconfig
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\BookApp.AssemblyInfoInputs.cache
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\BookApp.AssemblyInfo.cs
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\BookApp.csproj.CoreCompileInputs.cache
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\BookApp.MvcApplicationPartsAssemblyInfo.cache
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\BookApp.RazorAssemblyInfo.cache
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\BookApp.RazorAssemblyInfo.cs
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\BookApp.sourcelink.json
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\staticwebassets.build.json
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\staticwebassets.development.json
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\staticwebassets\msbuild.BookApp.Microsoft.AspNetCore.StaticWebAssets.props
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\staticwebassets\msbuild.build.BookApp.props
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BookApp.props
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BookApp.props
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\staticwebassets.pack.json
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\scopedcss\bundle\BookApp.styles.css
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\scopedcss\projectbundle\BookApp.bundle.scp.css
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\BookApp.csproj.CopyComplete
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\BookApp.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\refint\BookApp.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\BookApp.pdb
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\BookApp.genruntimeconfig.cache
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024\BookApp\obj\Debug\net7.0\ref\BookApp.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\appsettings.Development.json
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\appsettings.json
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\BookApp.staticwebassets.runtime.json
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\BookApp.exe
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\BookApp.deps.json
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\BookApp.runtimeconfig.json
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\BookApp.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\BookApp.pdb
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\Humanizer.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\System.CodeDom.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\BookApp.csproj.AssemblyReference.cache
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\BookApp.GeneratedMSBuildEditorConfig.editorconfig
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\BookApp.AssemblyInfoInputs.cache
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\BookApp.AssemblyInfo.cs
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\BookApp.csproj.CoreCompileInputs.cache
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\BookApp.MvcApplicationPartsAssemblyInfo.cache
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\BookApp.RazorAssemblyInfo.cache
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\BookApp.RazorAssemblyInfo.cs
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\BookApp.sourcelink.json
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\staticwebassets.build.json
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\staticwebassets.development.json
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\staticwebassets\msbuild.BookApp.Microsoft.AspNetCore.StaticWebAssets.props
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\staticwebassets\msbuild.build.BookApp.props
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BookApp.props
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BookApp.props
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\staticwebassets.pack.json
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\scopedcss\bundle\BookApp.styles.css
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\scopedcss\projectbundle\BookApp.bundle.scp.css
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\BookApp.csproj.CopyComplete
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\BookApp.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\refint\BookApp.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\BookApp.pdb
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\BookApp.genruntimeconfig.cache
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\obj\Debug\net7.0\ref\BookApp.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+B:\GitHub\Burakcnz\Module09-MVC\17-01-2024 - Sqlite\BookApp\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
