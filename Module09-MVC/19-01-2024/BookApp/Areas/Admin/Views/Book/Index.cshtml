@@ -1,1 +1,42 @@
-﻿<h1 class="display-6 text-danger">Kitapları Yönet</h1>
+﻿@model List<Book>
+<h1 class="display-6 text-danger">Kitapları Yönet</h1>
+<table id="myTable" class="table table-bordered">
+    <thead>
+        <tr>
+            <td>Id</td>
+            <td>Resim</td>
+            <td>Kitap</td>
+            <td>Fiyat</td>
+            <td>Stok Miktarı</td>
+            <td width="160">İşlemler</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var b in Model)
+        {
+            <tr>
+                <td>@b.Id</td>
+                <td>
+                    <img src="~/images/books/@b.ImageUrl" width="30" />
+                </td>
+                <td>@b.Name</td>
+                <td>@b.Price</td>
+                <td>@b.Stock</td>
+                <td>
+                    <a 
+                        class="btn btn-warning" 
+                        asp-area="Admin" 
+                        asp-controller="Book" 
+                        asp-action="Edit" 
+                        asp-route-id="@b.Id">Düzenle</a>
+                    <a class="btn btn-danger"
+                       asp-area="Admin"
+                       asp-controller="Book"
+                       asp-action="Delete"
+                       asp-route-id="@b.Id">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
