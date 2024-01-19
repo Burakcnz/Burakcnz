@@ -1,7 +1,9 @@
-﻿using BookApp.Models.Contexts;
+﻿using BookApp.Models;
+using BookApp.Models.Contexts;
 using BookApp.Models.Entities.Concrete;
 using BookApp.Models.Repositories;
 using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
 
 namespace BookApp.Controllers
 {
@@ -14,12 +16,11 @@ namespace BookApp.Controllers
         {
             _context = context;
             _repository = new BookRepository(_context);
-
         }
 
         public IActionResult Index()
         {
-            List<Book> result=_repository.GetHomePageProducts();
+            List<Book> result = _repository.GetHomePageProducts();
             return View(result);
         }
 

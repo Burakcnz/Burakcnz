@@ -12,10 +12,10 @@ namespace BookApp.Models.Repositories
             _context = context;
         }
 
-        public List<Book> GetAllBooks(bool? isActive = null, bool? isDeleted = null)
+        public List<Book> GetAllBooks(bool? isActive=null, bool? isDeleted=null)
         {
             List<Book> result;
-            if (isActive == null)
+            if (isActive==null)
             {
                 if (isDeleted == null)
                 {
@@ -23,28 +23,38 @@ namespace BookApp.Models.Repositories
                 }
                 else
                 {
-                    result = _context.Books.Where(b => b.IsDeleted == isDeleted).ToList();
+                    result = _context
+                        .Books
+                        .Where(b=>b.IsDeleted==isDeleted)
+                        .ToList();
                 }
             }
             else
             {
-                if (isDeleted == null)
+                if(isDeleted==null)
                 {
-                    result = _context.Books.Where(b => b.IsActive == isActive).ToList();
+                    result = _context
+                        .Books
+                        .Where(b=>b.IsActive==isActive)
+                        .ToList();
                 }
                 else
                 {
-                    result = _context.Books.Where(b => b.IsActive == isActive && b.IsDeleted == isDeleted).ToList();
+                    result = _context
+                        .Books
+                        .Where(b=>b.IsActive==isActive && b.IsDeleted==isDeleted)
+                        .ToList();
                 }
             }
-
-
+            
             return result;
-
         }
         public List<Book> GetHomePageProducts()
         {
-            List<Book> result=_context.Books.Where(b=>b.IsActive && !b.IsDeleted && b.IsHome).ToList();
+            List<Book> result = _context
+                .Books
+                .Where(b=>b.IsActive && !b.IsDeleted && b.IsHome)
+                .ToList();
             return result;
         }
     }

@@ -1,4 +1,5 @@
-﻿using BookApp.Models.Contexts;
+﻿using BookApp.Models;
+using BookApp.Models.Contexts;
 using BookApp.Models.Entities.Concrete;
 using BookApp.Models.Repositories;
 using Microsoft.AspNetCore.Mvc;
@@ -18,7 +19,7 @@ namespace BookApp.Controllers
 
         public IActionResult Index()
         {
-            List<Book> result = _repository.GetAllBooks(true,false);
+            List<Book> result = _repository.GetAllBooks(isDeleted:false, isActive:true);
             return View(result);
         }
     }
