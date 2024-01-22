@@ -20,7 +20,7 @@ namespace BookApp.Controllers
 
         public IActionResult Index()
         {
-            List<Book> result = _repository.GetHomePageProducts();
+            List<Book> result = _repository.GetHomePageBook();
             return View(result);
         }
 

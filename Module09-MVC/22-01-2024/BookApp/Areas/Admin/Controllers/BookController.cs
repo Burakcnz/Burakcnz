@@ -29,13 +29,50 @@ namespace BookApp.Areas.Admin.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(Book book)
         {
-            if(ModelState.IsValid)
+            if (ModelState.IsValid)
             {
                 book.Url = Jobs.GetUrl(book.Name);
                 _repository.CreateBook(book);
                 return RedirectToAction("Index");
             }
 
+            return View(book);
+        }
+
+        [HttpGet]
+
+        public IActionResult Edit(int id)
+        {
+            var book=_repository.GetBookById(id);
+            return View(book);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(Book book)
+        {
+            if (ModelState.IsValid)
+            {
+                _repository.UpdateBook(book);
+                return RedirectToAction("Index");
+            }
+            return View(book);
+        }
+
+        [HttpGet]
+        public IActionResult Delete(int id)
+        {
+            var book=_repository.GetBookById(id);
+            return View(book);
+        }
+
+        [HttpPost]
+        public IActionResult Delete(Book book)
+        {
+            if (ModelState.IsValid)
+            {
+                _repository.DeleteBook(book);
+                return RedirectToAction("Index");
+            }
             return View(book);
         }
     }
