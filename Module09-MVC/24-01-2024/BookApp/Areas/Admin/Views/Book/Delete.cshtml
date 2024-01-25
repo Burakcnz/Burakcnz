@@ -1,0 +1,28 @@
+﻿@model Book
+<div class="container w-50">
+    <h1 class="display-6 text-primary">Kitap Silme Formu</h1>
+    <hr />
+    <form asp-area="Admin"
+          asp-controller="Book"
+          asp-action="Delete"
+          method="post">
+        <div class="row">
+            @* <input type="hidden" asp-for="Id" />*@
+            
+            <div class="col-md-6 mb-3">
+                <label asp-for="Name">@Model.Name</label>
+            </div>
+            <div class="">
+                <label>Adlı Kitap Silinecektir!</label>
+                <label>İster KALICI İster GEÇİCİ Silme İşlme Yapabilirsiniz. </label>
+            </div>
+            <div>
+                <button asp-area="Admin" asp-controller="Book" asp-action="HardDelete" asp-route-id="@Model.Id" class="btn btn-danger">KALICI OLARAK SİL</button>
+                <button asp-area ="Admin" asp-controller="Book" asp-action="SoftDelete" asp-route-id="@Model.Id" class="btn btn-danger">ÇÖP KUTUSUNA GÖNDER</button>
+                
+            </div>
+            
+        </div>
+       
+    </form>
+</div>

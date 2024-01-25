@@ -1,0 +1,68 @@
+﻿@model Book
+<div class="container w-50">
+    <h1 class="display-6 text-primary">Kitap Güncelleme Formu</h1>
+    <hr />
+    <form
+          asp-area="Admin"
+          asp-controller="Book"
+          asp-action="Edit"
+          method="post"
+    >   
+        <div class="row">
+           @* <input type="hidden" asp-for="Id" />*@
+            <div class="col-md-6 mb-3">
+                <label class="form-label" asp-for="Name"></label>
+                <input class="form-control" asp-for="Name"  />
+                <span class="text-danger" asp-validation-for="Name"></span>
+            </div>
+            <div class="col-md-6 mb-3">
+                <label class="form-label" asp-for="ImageUrl"></label>
+                <input class="form-control" asp-for="ImageUrl" />
+                <span class="text-danger" asp-validation-for="ImageUrl"></span>
+            </div>
+            <div class="col-md-4 mb-3">
+                <label class="form-label" asp-for="Stock"></label>
+                <input class="form-control" asp-for="Stock" />
+                <span class="text-danger" asp-validation-for="Stock"></span>
+            </div>
+            <div class="col-md-4 mb-3">
+                <label class="form-label" asp-for="Price"></label>
+                <input class="form-control" asp-for="Price" />
+                <span class="text-danger" asp-validation-for="Price"></span>
+            </div>
+            <div class="col-md-4 mb-3">
+                <label class="form-label" asp-for="PageCount"></label>
+                <input class="form-control" asp-for="PageCount" />
+                <span class="text-danger" asp-validation-for="PageCount"></span>
+            </div>
+            <div class="col-md-12 mb-3">
+                <label class="form-label" asp-for="Abstract"></label>
+                <textarea asp-for="Abstract" class="form-control"></textarea>
+                <span class="text-danger" asp-validation-for="Abstract"></span>
+            </div>
+            <div class="col-md-4">
+                <div class="form-check">
+                    <input class="form-check-input" asp-for="IsHome" >
+                    <label asp-for="IsHome" class="form-check-label" for="flexCheckDefault"></label>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="form-check">
+                    <input class="form-check-input" asp-for="IsActive">
+                    <label class="form-check-label" for="flexCheckDefault">
+                        Aktif Kitap
+                    </label>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="form-check">
+                    <input class="form-check-input" asp-for="IsDeleted">
+                    <label class="form-check-label" for="flexCheckDefault">
+                        Çöp Kutusuna Gönder
+                    </label>
+                </div>
+            </div>
+        </div>
+        <button type="submit" class="btn btn-success mt-3">Güncelle</button>
+    </form>
+</div>
