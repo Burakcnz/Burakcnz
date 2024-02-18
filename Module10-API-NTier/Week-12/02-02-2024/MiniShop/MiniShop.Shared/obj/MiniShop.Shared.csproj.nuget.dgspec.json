@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Infotech-MSCD-ENE-1\\Module10-API-NTier\\Week-12\\02-02-2024\\MiniShop\\MiniShop.Shared\\MiniShop.Shared.csproj": {}
+  },
+  "projects": {
+    "E:\\Infotech-MSCD-ENE-1\\Module10-API-NTier\\Week-12\\02-02-2024\\MiniShop\\MiniShop.Shared\\MiniShop.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Infotech-MSCD-ENE-1\\Module10-API-NTier\\Week-12\\02-02-2024\\MiniShop\\MiniShop.Shared\\MiniShop.Shared.csproj",
+        "projectName": "MiniShop.Shared",
+        "projectPath": "E:\\Infotech-MSCD-ENE-1\\Module10-API-NTier\\Week-12\\02-02-2024\\MiniShop\\MiniShop.Shared\\MiniShop.Shared.csproj",
+        "packagesPath": "C:\\Users\\brkcn\\.nuget\\packages\\",
+        "outputPath": "E:\\Infotech-MSCD-ENE-1\\Module10-API-NTier\\Week-12\\02-02-2024\\MiniShop\\MiniShop.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\brkcn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

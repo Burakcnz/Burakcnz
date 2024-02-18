@@ -1,0 +1,12 @@
+E:\Burakcnz\Module11-Identity\16-02-2024\MiniShop\MiniShop.Shared\bin\Debug\net7.0\MiniShop.Shared.deps.json
+E:\Burakcnz\Module11-Identity\16-02-2024\MiniShop\MiniShop.Shared\bin\Debug\net7.0\MiniShop.Shared.dll
+E:\Burakcnz\Module11-Identity\16-02-2024\MiniShop\MiniShop.Shared\bin\Debug\net7.0\MiniShop.Shared.pdb
+E:\Burakcnz\Module11-Identity\16-02-2024\MiniShop\MiniShop.Shared\obj\Debug\net7.0\MiniShop.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Burakcnz\Module11-Identity\16-02-2024\MiniShop\MiniShop.Shared\obj\Debug\net7.0\MiniShop.Shared.AssemblyInfoInputs.cache
+E:\Burakcnz\Module11-Identity\16-02-2024\MiniShop\MiniShop.Shared\obj\Debug\net7.0\MiniShop.Shared.AssemblyInfo.cs
+E:\Burakcnz\Module11-Identity\16-02-2024\MiniShop\MiniShop.Shared\obj\Debug\net7.0\MiniShop.Shared.csproj.CoreCompileInputs.cache
+E:\Burakcnz\Module11-Identity\16-02-2024\MiniShop\MiniShop.Shared\obj\Debug\net7.0\MiniShop.Shared.sourcelink.json
+E:\Burakcnz\Module11-Identity\16-02-2024\MiniShop\MiniShop.Shared\obj\Debug\net7.0\MiniShop.Shared.dll
+E:\Burakcnz\Module11-Identity\16-02-2024\MiniShop\MiniShop.Shared\obj\Debug\net7.0\refint\MiniShop.Shared.dll
+E:\Burakcnz\Module11-Identity\16-02-2024\MiniShop\MiniShop.Shared\obj\Debug\net7.0\MiniShop.Shared.pdb
+E:\Burakcnz\Module11-Identity\16-02-2024\MiniShop\MiniShop.Shared\obj\Debug\net7.0\ref\MiniShop.Shared.dll

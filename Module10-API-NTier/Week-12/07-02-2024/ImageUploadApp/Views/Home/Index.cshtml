@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Image Upload App</h1>
+    <form
+        asp-area="" asp-controller="Home" asp-action="ImageUpload" method="post" enctype="multipart/form-data" 
+    >
+        <div class="mb-3 w-25 m-auto">
+            <label for="formFile" class="form-label">Resim seçiniz</label>
+            <input class="form-control" type="file" id="formFile" name="image">
+            <input type="text" name="grup" />
+        </div>
+        <button class="btn btn-success" type="submit">Gönder</button>
+    </form>
+</div>

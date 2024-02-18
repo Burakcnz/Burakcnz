@@ -1,0 +1,48 @@
+﻿@model ProductViewModel
+<div class="content-wrapper">
+    <div class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1 class="m-0">Ürün Silme Ekranı</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+    <section class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card card-info w-50">
+                        <div class="card-header">
+                            <h3 class="card-title"></h3>
+                        </div>
+                        <div class="card-body">
+                            <label class="text-danger">Silinecek Ürün:</label>
+                            <span>@Model.Name</span>
+                            <br />
+                            <label class="text-danger">Ürünün Aktiflik Durumu:</label>
+                            <span>@(Model.IsActive ? "Aktif" : "Pasif")</span>
+                            <br />
+                            <label class="text-danger">Ürünün Eklenme Tarihi:</label>
+                            <span>@Model.CreatedDate.ToShortDateString()</span>
+                            <div class="btn-group w-100 mt-3">
+                                <a asp-area="Admin" asp-controller="Product" asp-action="Index" class="btn btn-warning">Vazgeç</a>
+                                <a asp-area="Admin" asp-controller="Product" asp-action="HardDelete" asp-route-id="@Model.Id" class="btn btn-danger">Kalıcı Olarak Sil</a>
+                                <a asp-area="Admin" asp-controller="Product" asp-action="SoftDelete" asp-route-id="@Model.Id" class="btn btn-info">Sil</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </section>
+</div>
+
+
+
+
+
+

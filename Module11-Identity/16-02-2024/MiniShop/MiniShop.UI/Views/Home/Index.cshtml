@@ -1,0 +1,27 @@
+﻿@model List<ProductViewModel>
+<div class="container">
+    <h1 class="display-6 text-primary">Ürünler</h1>
+    <div class="row g-4">
+        @foreach (var p in Model)
+        {
+            <div class="col-md-3">
+                <div class="card">
+                    <img class="card-img-top img-fluid mx-auto my-4" src="~/images/products/@p.ImageUrl" style="width:120px;"/>
+                    <div class="card-body">
+                        <div class="card-title text-center">@p.Name</div>
+                        <div class="card-text text-danger text-center">@($"{p.Price:C0}")</div>
+                    </div>
+                    <div class="d-flex card-footer justify-content-around" >
+                        <a class="btn btn-primary btn-sm">İncele</a>
+                        <form>
+                            <input type="hidden" name="id" value="@p.Id" />
+                            <input type="hidden" name="quantity" value="1" />
+                            <button type="submit" asp-controller="Cart" asp-area="" asp-action="AddToCart"  class="btn btn-success btn-sm">Sepete Ekle</button>
+                        </form>
+                        
+                    </div>                    
+                </div>
+            </div>
+        }
+    </div>
+</div>

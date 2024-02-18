@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniShopUI", "MiniShopUI.csproj", "{0318BB03-E9CB-4180-9024-EE762CA2904B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0318BB03-E9CB-4180-9024-EE762CA2904B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0318BB03-E9CB-4180-9024-EE762CA2904B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0318BB03-E9CB-4180-9024-EE762CA2904B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0318BB03-E9CB-4180-9024-EE762CA2904B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D567671-9C0E-42CA-A57A-78F7EB3D8CFF}
+	EndGlobalSection
+EndGlobal

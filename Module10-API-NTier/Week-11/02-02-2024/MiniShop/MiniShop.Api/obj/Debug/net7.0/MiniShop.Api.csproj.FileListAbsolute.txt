@@ -1,0 +1,7 @@
+E:\Infotech-MSCD-ENE-1\Module10-API-NTier\Week-11\02-02-2024\MiniShop\MiniShop.Api\obj\Debug\net7.0\MiniShop.Api.csproj.AssemblyReference.cache
+E:\Infotech-MSCD-ENE-1\Module10-API-NTier\Week-11\02-02-2024\MiniShop\MiniShop.Api\obj\Debug\net7.0\MiniShop.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Infotech-MSCD-ENE-1\Module10-API-NTier\Week-11\02-02-2024\MiniShop\MiniShop.Api\obj\Debug\net7.0\MiniShop.Api.AssemblyInfoInputs.cache
+E:\Infotech-MSCD-ENE-1\Module10-API-NTier\Week-11\02-02-2024\MiniShop\MiniShop.Api\obj\Debug\net7.0\MiniShop.Api.AssemblyInfo.cs
+E:\Infotech-MSCD-ENE-1\Module10-API-NTier\Week-11\02-02-2024\MiniShop\MiniShop.Api\obj\Debug\net7.0\MiniShop.Api.csproj.CoreCompileInputs.cache
+E:\Infotech-MSCD-ENE-1\Module10-API-NTier\Week-11\02-02-2024\MiniShop\MiniShop.Api\obj\Debug\net7.0\MiniShop.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Infotech-MSCD-ENE-1\Module10-API-NTier\Week-11\02-02-2024\MiniShop\MiniShop.Api\obj\Debug\net7.0\MiniShop.Api.sourcelink.json

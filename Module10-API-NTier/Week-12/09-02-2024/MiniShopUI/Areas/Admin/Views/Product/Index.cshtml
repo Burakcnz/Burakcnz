@@ -1,0 +1,132 @@
+﻿@model List<ProductViewModel>
+@{
+    var products = Model;
+    var title = "";
+    var btnTitle = "";
+    var btnClassName = "";
+    var deleteActionName = "";
+    var actionName = "";
+    var actionTitle = "";
+    var showDeleted = ViewBag.ShowDeleted;
+    if (showDeleted)
+    {
+        title = "Çöp Kutusu";
+        btnTitle = "Ürün Listesine Geri Dön";
+        btnClassName = "btn btn-info";
+        deleteActionName = "HardDelete";
+        actionTitle = "Geri Al";
+        actionName = "SoftDelete";
+    }
+    else
+    {
+        title = "Ürün Listesi";
+        btnTitle = "Çöp Kutusu";
+        btnClassName = "btn btn-danger";
+        deleteActionName = "Delete";
+        actionTitle = "Düzenle";
+        actionName = "Edit";
+    }
+}
+<div class="content-wrapper">
+    <div class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1 class="m-0">@title</h1>
+                </div>
+                <div class="col-sm-6 text-right">
+                    <a class="@btnClassName" asp-area="Admin" asp-controller="Product" asp-action="Index" asp-route-id="@(!showDeleted)">@btnTitle</a>
+                    @if (!showDeleted)
+                    {
+                        <a class="btn btn-success" asp-area="Admin" asp-controller="Product" asp-action="Create">Ürün Ekle</a>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+    <section class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12">
+                    <div class="card">
+                        <div class="card-body">
+                            <table id="myDataTable" class="table table-bordered table-striped">
+                                <thead>
+                                    <tr>
+                                        <th width="30">Id</th>
+                                        <th>Resim</th>
+                                        <th>Ürün</th>
+                                        <th>Fiyat</th>
+                                        <th>Aktif</th>
+                                        <th>Ana Sayfa</th>
+                                        <th width="90">#</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach(var p in products)
+                                    {
+                                        <tr>
+                                            <td>@p.Id</td>
+                                            <td>
+                                                <img src="http://localhost:5100/images/products/@p.ImageUrl" style="width:30px;" />
+                                            </td>
+                                            <td>@p.Name</td>
+                                            <td>@p.Price</td>
+                                            <td>
+                                                <form
+                                                     asp-area="Admin"
+                                                     asp-controller="Product"
+                                                     asp-action="UpdateIsActive"
+                                                     asp-route-id="@p.Id"
+                                                     id="formIsActive_@p.Id"
+                                                >
+                                                    <div class="custom-control custom-switch">
+                                                        <input onchange="document.getElementById('formIsActive_@p.Id').submit();"
+                                                            type="checkbox" class="custom-control-input"
+                                                        @(p.IsActive ? "checked" : "")
+                                                               id="isActive_@p.Id">
+                                                        <label class="custom-control-label" for="isActive_@p.Id"></label>
+                                                    </div>
+                                                </form>
+         
+                                            </td>
+                                            <td>
+                                                <form asp-area="Admin"
+                                                      asp-controller="Product"
+                                                      asp-action="UpdateIsHome"
+                                                      asp-route-id="@p.Id"
+                                                      id="formIsHome_@p.Id">
+                                                    <div class="custom-control custom-switch">
+                                                        <input onchange="document.getElementById('formIsHome_@p.Id').submit();"
+                                                               type="checkbox" class="custom-control-input"
+                                                        @(p.IsHome ? "checked" : "")
+                                                               id="isHome_@p.Id">
+                                                        <label class="custom-control-label" for="isHome_@p.Id"></label>
+                                                    </div>
+                                                </form>
+                                            </td>
+                                            <td>
+                                                <a asp-area="Admin" asp-controller="Product" asp-action="@actionName" asp-route-id="@p.Id" class="btn btn-warning btn-sm">@actionTitle</a>
+                                                <a asp-area="Admin" asp-controller="Product" asp-action="@deleteActionName" asp-route-id="@p.Id" class="btn btn-danger btn-sm">Sil</a>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                        <!-- /.card-body -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+@section Styles {
+    @await Html.PartialAsync("_DataTablesStylesPartial")
+}
+
+@section Scripts {
+    @await Html.PartialAsync("_DataTablesScriptsPartial")
+}
+

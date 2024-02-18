@@ -1,0 +1,12 @@
+E:\Infotech-MSCD-ENE-1\Module10-API-NTier\Week-11\02-02-2024\MiniShop\MiniShop.Entity\bin\Debug\net7.0\MiniShop.Entity.deps.json
+E:\Infotech-MSCD-ENE-1\Module10-API-NTier\Week-11\02-02-2024\MiniShop\MiniShop.Entity\bin\Debug\net7.0\MiniShop.Entity.dll
+E:\Infotech-MSCD-ENE-1\Module10-API-NTier\Week-11\02-02-2024\MiniShop\MiniShop.Entity\bin\Debug\net7.0\MiniShop.Entity.pdb
+E:\Infotech-MSCD-ENE-1\Module10-API-NTier\Week-11\02-02-2024\MiniShop\MiniShop.Entity\obj\Debug\net7.0\MiniShop.Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Infotech-MSCD-ENE-1\Module10-API-NTier\Week-11\02-02-2024\MiniShop\MiniShop.Entity\obj\Debug\net7.0\MiniShop.Entity.AssemblyInfoInputs.cache
+E:\Infotech-MSCD-ENE-1\Module10-API-NTier\Week-11\02-02-2024\MiniShop\MiniShop.Entity\obj\Debug\net7.0\MiniShop.Entity.AssemblyInfo.cs
+E:\Infotech-MSCD-ENE-1\Module10-API-NTier\Week-11\02-02-2024\MiniShop\MiniShop.Entity\obj\Debug\net7.0\MiniShop.Entity.csproj.CoreCompileInputs.cache
+E:\Infotech-MSCD-ENE-1\Module10-API-NTier\Week-11\02-02-2024\MiniShop\MiniShop.Entity\obj\Debug\net7.0\MiniShop.Entity.sourcelink.json
+E:\Infotech-MSCD-ENE-1\Module10-API-NTier\Week-11\02-02-2024\MiniShop\MiniShop.Entity\obj\Debug\net7.0\MiniShop.Entity.dll
+E:\Infotech-MSCD-ENE-1\Module10-API-NTier\Week-11\02-02-2024\MiniShop\MiniShop.Entity\obj\Debug\net7.0\refint\MiniShop.Entity.dll
+E:\Infotech-MSCD-ENE-1\Module10-API-NTier\Week-11\02-02-2024\MiniShop\MiniShop.Entity\obj\Debug\net7.0\MiniShop.Entity.pdb
+E:\Infotech-MSCD-ENE-1\Module10-API-NTier\Week-11\02-02-2024\MiniShop\MiniShop.Entity\obj\Debug\net7.0\ref\MiniShop.Entity.dll

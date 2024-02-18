@@ -33,7 +33,7 @@ namespace MiniShop.Api.Controllers
         }
 
         [HttpGet("GetUnDeletedProducts/{isActive?}")]
-        public async Task<IActionResult> GetUnDeleted(bool? isActive)
+        public async Task<IActionResult> GetUnDeleted(bool? isActive=null)
         {
             var response = await _productManager.GetDeletedAndActiveProductsAsync(false, isActive);
 
@@ -104,5 +104,8 @@ namespace MiniShop.Api.Controllers
             var responseJsonResult = JsonSerializer.Serialize(response);
             return Ok(responseJsonResult);
         }
+
+
+
     }
 }
