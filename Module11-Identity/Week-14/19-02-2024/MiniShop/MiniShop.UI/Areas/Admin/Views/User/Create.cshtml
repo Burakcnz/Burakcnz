@@ -1,0 +1,96 @@
+﻿@model AddUserViewModel
+<!-- Content Wrapper. Contains page content -->
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="d-flex justify-content-between mb-2">
+                <div>
+                    <h1>Yeni Kullanıcı</h1>
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+
+    <section class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12">
+                    <form asp-area="Admin"
+                          asp-controller="User"
+                          asp-action="Create"
+                          method="post">
+                          <div asp-validation-summary="All" class="text-danger"></div>
+                        <!--Ürün Bilgileri-->
+                        <div class="card card-success">
+                            <div class="card-header">
+                                <h3 class="card-title">Kullanıcı Bilgileri</h3>
+                            </div>
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label asp-for="FirstName"></label>
+                                            <input asp-for="FirstName" type="text" class="form-control" placeholder="Adı giriniz...">
+                                            <span asp-validation-for="FirstName" class="text-danger"></span>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label asp-for="LastName"></label>
+                                            <input asp-for="LastName" type="text" class="form-control" placeholder="Soyadı giriniz...">
+                                            <span asp-validation-for="LastName" class="text-danger"></span>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label asp-for="UserName"></label>
+                                            <input asp-for="UserName" type="text" class="form-control" placeholder="Kullanıcı adını giriniz...">
+                                            <span asp-validation-for="UserName" class="text-danger"></span>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <div class="form-group">
+                                            <label asp-for="Email"></label>
+                                            <input asp-for="Email" type="text" class="form-control" placeholder="Emaili giriniz...">
+                                            <span asp-validation-for="Email" class="text-danger"></span>
+                                        </div>
+                                    </div>
+ 
+                                </div>
+                            </div>
+                        </div>
+                        <!--Roller-->
+                        <div class="card card-warning">
+                            <div class="card-header">
+                                <h3 class="card-title">Rol Seç(En az bir rol seçmelisiniz!)</h3>
+                            </div>
+                            <div class="card-body">
+                                @for (int i = 0; i < Model.Roles.Count; i++)
+                                {
+                                    <div class="icheck-primary d-inline mr-3">
+                                        <input asp-for="@Model.Roles[i].IsAssigned" />
+                                        <label asp-for="@Model.Roles[i].IsAssigned">@Model.Roles[i].RoleName</label>
+                                        <input type="hidden" asp-for="@Model.Roles[i].RoleId" />
+                                        <input type="hidden" asp-for="@Model.Roles[i].RoleName" />
+                                    </div>
+                                    
+                                }
+                            </div>
+
+                        </div>
+                        <div class="mb-3">
+                            <button type="submit" class="btn btn-primary btn-lg btn-block">Kaydet</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+
+@section Styles {
+    <!-- iCheck for checkboxes and radio inputs -->
+    <link rel="stylesheet" href="~/admin/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
+}

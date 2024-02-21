@@ -1512,11 +1512,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Burakcnz\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Business\\MiniShop.Business.csproj",
+      "projectUniqueName": "E:\\Infotech-MSCD-ENE-1\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Business\\MiniShop.Business.csproj",
       "projectName": "MiniShop.Business",
-      "projectPath": "E:\\Burakcnz\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Business\\MiniShop.Business.csproj",
+      "projectPath": "E:\\Infotech-MSCD-ENE-1\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Business\\MiniShop.Business.csproj",
       "packagesPath": "C:\\Users\\brkcn\\.nuget\\packages\\",
-      "outputPath": "E:\\Burakcnz\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Business\\obj\\",
+      "outputPath": "E:\\Infotech-MSCD-ENE-1\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\brkcn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1533,11 +1533,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\Burakcnz\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Data\\MiniShop.Data.csproj": {
-              "projectPath": "E:\\Burakcnz\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Data\\MiniShop.Data.csproj"
+            "E:\\Infotech-MSCD-ENE-1\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Data\\MiniShop.Data.csproj": {
+              "projectPath": "E:\\Infotech-MSCD-ENE-1\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Data\\MiniShop.Data.csproj"
             },
-            "E:\\Burakcnz\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Shared\\MiniShop.Shared.csproj": {
-              "projectPath": "E:\\Burakcnz\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Shared\\MiniShop.Shared.csproj"
+            "E:\\Infotech-MSCD-ENE-1\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Shared\\MiniShop.Shared.csproj": {
+              "projectPath": "E:\\Infotech-MSCD-ENE-1\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Shared\\MiniShop.Shared.csproj"
             }
           }
         }

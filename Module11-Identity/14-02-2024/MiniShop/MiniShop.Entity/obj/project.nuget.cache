@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xR7ywlhfZkK3525IhP9b+U/zGPH3C2MBWjBc7YfUn6XTwVOm4+J7yvHQQZAnAUOdxKFXkO+HrpjwcPflVBLBvA==",
+  "dgSpecHash": "qSp30F2j3i2LZWjcJ1uJu11ISk20fP9sDeYEzumxs3Pa+rRcBizAyw29r9dz0ob7p8SqEIqfEjo/Q+pGRVzr+A==",
   "success": true,
-  "projectFilePath": "E:\\Burakcnz\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Entity\\MiniShop.Entity.csproj",
+  "projectFilePath": "E:\\Infotech-MSCD-ENE-1\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Entity\\MiniShop.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brkcn\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.15\\microsoft.aspnetcore.cryptography.internal.7.0.15.nupkg.sha512",
     "C:\\Users\\brkcn\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.15\\microsoft.aspnetcore.cryptography.keyderivation.7.0.15.nupkg.sha512",

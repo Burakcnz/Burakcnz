@@ -792,11 +792,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Burakcnz\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Entity\\MiniShop.Entity.csproj",
+      "projectUniqueName": "E:\\Infotech-MSCD-ENE-1\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Entity\\MiniShop.Entity.csproj",
       "projectName": "MiniShop.Entity",
-      "projectPath": "E:\\Burakcnz\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Entity\\MiniShop.Entity.csproj",
+      "projectPath": "E:\\Infotech-MSCD-ENE-1\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Entity\\MiniShop.Entity.csproj",
       "packagesPath": "C:\\Users\\brkcn\\.nuget\\packages\\",
-      "outputPath": "E:\\Burakcnz\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Entity\\obj\\",
+      "outputPath": "E:\\Infotech-MSCD-ENE-1\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\brkcn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -813,8 +813,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\Burakcnz\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Shared\\MiniShop.Shared.csproj": {
-              "projectPath": "E:\\Burakcnz\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Shared\\MiniShop.Shared.csproj"
+            "E:\\Infotech-MSCD-ENE-1\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Shared\\MiniShop.Shared.csproj": {
+              "projectPath": "E:\\Infotech-MSCD-ENE-1\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.Shared\\MiniShop.Shared.csproj"
             }
           }
         }

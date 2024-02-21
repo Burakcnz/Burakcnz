@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JeneoPMpdJrP3jolPj534EhclDu+wJeyTmttuT2WxpoJkFpwBaWv8L6ImwLQZP+44VNvFgnCb8fIcDn8Qnqn8A==",
+  "dgSpecHash": "gTksQZKXtexc7ZCJ7oGCy6a/lk4UJRBABKRwFRlm0LRL39L4u09HX8GWtbnGrdAeMU803JfR/0uG7zEBRIqm9w==",
   "success": true,
-  "projectFilePath": "E:\\Burakcnz\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.UI\\MiniShop.UI.csproj",
+  "projectFilePath": "E:\\Infotech-MSCD-ENE-1\\Module11-Identity\\14-02-2024\\MiniShop\\MiniShop.UI\\MiniShop.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brkcn\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\brkcn\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

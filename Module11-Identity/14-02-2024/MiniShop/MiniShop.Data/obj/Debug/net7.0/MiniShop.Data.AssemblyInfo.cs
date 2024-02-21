@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniShop.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92f735244d4dc84a31c2dad87ba180d72bfc59b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7200d922e7d1bacd0193e775be54e16bb8b5ea23")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniShop.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniShop.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
