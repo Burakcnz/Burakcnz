@@ -1,0 +1,8 @@
+﻿@model int
+@{
+    string count =Model==0 ?"": $"({Model})";
+}
+<li class="nav-item">
+    <a class="nav-link text-dark" asp-area="" asp-controller="Cart"
+       asp-action="Index">Sepetim<span class="text-danger">@count</span> </a>
+</li>

@@ -1,0 +1,26 @@
+﻿@model List<Order>
+<h1 class="display-6 text-primary">Geçmiş Siparişlerim</h1>
+<hr />
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Tarih</th>
+            <th>Tutar</th>
+            <th>Durum</th>
+            <th>#</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.Id</td>
+                <td>@order.OrderDate</td>
+                <td>@($"{order.OrderDetails.Sum(x=>x.Price*x.Qauntity):C0}")</td>
+                <td>@order.OrderState</td>
+                <td><a class="btn btn-info">Detay</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
